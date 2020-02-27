@@ -1,0 +1,41 @@
+.container {
+  padding: 1rem;
+  color: #ffffff;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 20;
+  background-color: #131313;
+}
+
+.wrapper {
+  margin: auto;
+  display: flex;
+  max-width: 1000px;
+}
+
+.logo {
+  flex: 1;
+  font-family: "Oswald", Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  font-size: 1.5rem;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.item {
+  font-family: "Lato", Helvetica, sans-serif;
+  font-weight: 400;
+  font-size: 1rem;
+  margin-left: 1rem;
+  color: #ffffff;
+  text-decoration: none;
+  transition: all ease-out 0.2s;
+}
+
+.item:hover,
+.item:focus {
+  color: #3ba3d7;
+  border-bottom: solid #3ba3d7 0.1rem;
+}

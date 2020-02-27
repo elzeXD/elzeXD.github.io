@@ -1,0 +1,32 @@
+.btn {
+  display: block;
+  margin: 0 0.5rem;
+  min-width: 8rem;
+  border-radius: 0.2rem;
+  padding: 0.5rem;
+  background-image: linear-gradient(to top right, #3646db, #3cbad6);
+  transition: transform ease-out 0.25s;
+  position: relative;
+  z-index: 10;
+}
+
+.btn:focus,
+.btn:hover {
+  filter: brightness(1.2);
+  transform: translateY(-0.1rem);
+}
+
+.btn,
+.btn:focus,
+.btn:active,
+.btn:hover {
+  color: #ffffff;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.name {
+  font-family: "Oswald", Arial, Helvetica, sans-serif;
+  display: block;
+  text-align: center;
+}
