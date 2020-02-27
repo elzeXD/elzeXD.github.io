@@ -12,6 +12,7 @@ module.exports = {
     trakteer: `https://trakteer.id/elzeXD`,
     deviantart: `https://elzepc.deviantart.com`,
     discord: `https://discordapp.com/users/elze#2211`,
+    siteUrl: `https://elzeXD.github.io`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
