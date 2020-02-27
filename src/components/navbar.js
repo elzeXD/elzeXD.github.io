@@ -7,7 +7,7 @@ function Navbar() {
     <div className={Styles.container}>
       <div className={Styles.wrapper}>
         <Link className={Styles.logo}>ELZE</Link>
-        <Link to="/" className={Styles.item}>
+        <Link to="/about" className={Styles.item}>
           ABOUT
         </Link>
       </div>

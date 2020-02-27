@@ -1,14 +1,14 @@
 import { graphql, useStaticQuery } from "gatsby"
 import React from "react"
-import Card from "../../components/card"
-import Layout from "../../components/layout"
-import SEO from "../../components/seo"
-import Styles from "../../styles/releases.module.css"
+import Card from "../components/card"
+import Layout from "../components/layout"
+import SEO from "../components/seo"
+import Styles from "../styles/releases.module.css"
 
 function Releases() {
   const data = useStaticQuery(graphql`
     {
-      allMarkdownRemark(filter: { frontmatter: { tag: { eq: "utility" } } }) {
+      allMarkdownRemark(filter: { frontmatter: { lang: { eq: "id" } } }) {
         edges {
           node {
             fields {

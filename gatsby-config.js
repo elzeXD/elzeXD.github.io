@@ -8,8 +8,10 @@ module.exports = {
     facebook: `https://facebook.com/elzeXD`,
     youtube: `https://www.youtube.com/channel/UCK0o03L2vIAk_kYpACYlr8A`,
     instagram: `https://www.instagram.com/elzexd`,
-    telegram: `isi sendiri`,
+    telegram: `https://t.me/elzeXD`,
     trakteer: `https://trakteer.id/elzeXD`,
+    deviantart: `https://elzepc.deviantart.com`,
+    discord: `https://discordapp.com/users/elze#2211`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,

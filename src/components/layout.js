@@ -46,7 +46,11 @@ const Layout = ({ children }) => {
             fontFamily: `'Lato', Helvetica, sans-serif`,
           }}
         >
-          &copy; 2020 Elze
+          &copy; 2020 Elze, with{" "}
+          <span style={{ color: "salmon" }}>&hearts;</span> by{" "}
+          <a href="https://irrellia.github.io" style={{ color: `#3ba3d7` }}>
+            Irrellia
+          </a>
         </footer>
       </div>
     </>

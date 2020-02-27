@@ -17,6 +17,7 @@ function IndexPage() {
           telegram
           instagram
           trakteer
+          deviantart
         }
       }
     }
@@ -27,15 +28,16 @@ function IndexPage() {
       <div className={Styles.container}>
         <h1>{site.siteMetadata.title}</h1>
         <div className={Styles.ctaWrapper}>
-          <Button url="/releases/utility" name="utility" />
-          <Button url="/releases/themes" name="themes" />
+          <Button url="/releases" name="releases" />
+          <Button url="/services" name="services" />
         </div>
         <div className={Styles.buttons}>
-          <SocialButton url={site.siteMetadata.facebook} name="Facebook" />
           <SocialButton url={site.siteMetadata.youtube} name="Youtube" />
-          <SocialButton url={site.siteMetadata.instagram} name="Instagram" />
-          <SocialButton url={site.siteMetadata.telegram} name="Telegram" />
+          <SocialButton url={site.siteMetadata.deviantart} name="DeviantArt" />
           <SocialButton url={site.siteMetadata.trakteer} name="Trakteer" />
+          <SocialButton url={site.siteMetadata.telegram} name="Telegram" />
+          <SocialButton url={site.siteMetadata.facebook} name="Facebook" />
+          <SocialButton url={site.siteMetadata.instagram} name="Instagram" />
         </div>
         <br />
       </div>
