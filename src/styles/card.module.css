@@ -58,6 +58,7 @@
 @media only screen and (max-width: 720px) {
   .container {
     display: block;
+    max-width: 80vw;
   }
 
   .img {

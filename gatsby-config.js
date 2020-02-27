@@ -7,8 +7,9 @@ module.exports = {
     description: `Ini ubah sendiri eak`,
     facebook: `https://facebook.com/elzeXD`,
     youtube: `https://www.youtube.com/channel/UCK0o03L2vIAk_kYpACYlr8A`,
-    instagram: `https://www.instagram.com/elzexd/`,
+    instagram: `https://www.instagram.com/elzexd`,
     telegram: `isi sendiri`,
+    trakteer: `https://trakteer.id/elzeXD`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -30,6 +31,7 @@ module.exports = {
         background_color: `#121212`,
         theme_color: `#121212`,
         display: `minimal-ui`,
+        icon: `src/assets/favicon.png`,
       },
     },
     {
@@ -43,6 +45,12 @@ module.exports = {
             linkImagesToOriginal: false,
           },
         ],
+      },
+    },
+    {
+      resolve: `gatsby-plugin-postcss`,
+      options: {
+        postCssPlugins: [require(`autoprefixer`)],
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality

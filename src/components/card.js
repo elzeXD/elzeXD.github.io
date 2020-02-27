@@ -7,7 +7,7 @@ import moment from "moment"
 function Card({ slug, title, desc, date }) {
   const data = useStaticQuery(graphql`
     {
-      file(relativePath: { eq: "images/test.jpg" }) {
+      file(relativePath: { eq: "assets/placeholder.png" }) {
         childImageSharp {
           fluid(maxHeight: 640) {
             ...GatsbyImageSharpFluid

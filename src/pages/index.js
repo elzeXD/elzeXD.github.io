@@ -16,6 +16,7 @@ function IndexPage() {
           youtube
           telegram
           instagram
+          trakteer
         }
       }
     }
@@ -34,6 +35,7 @@ function IndexPage() {
           <SocialButton url={site.siteMetadata.youtube} name="Youtube" />
           <SocialButton url={site.siteMetadata.instagram} name="Instagram" />
           <SocialButton url={site.siteMetadata.telegram} name="Telegram" />
+          <SocialButton url={site.siteMetadata.trakteer} name="Trakteer" />
         </div>
         <br />
       </div>
