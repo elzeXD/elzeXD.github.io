@@ -2,6 +2,12 @@ import { graphql, Link, useStaticQuery } from "gatsby"
 import React from "react"
 import Styles from "../styles/serviceCard.module.css"
 import SocialButton from "./socialButton"
+import {
+  fafacebookf,
+  faFacebookF,
+  faTelegram,
+  faDiscord,
+} from "@fortawesome/free-brands-svg-icons"
 
 function ServiceCard({ slug, title, desc, date }) {
   const { site } = useStaticQuery(graphql`
@@ -24,9 +30,21 @@ function ServiceCard({ slug, title, desc, date }) {
           <hr />
           <p className={Styles.desc}>{desc}</p>
           <div className={Styles.buttons}>
-            <SocialButton url={site.siteMetadata.facebook} name="Facebook" />
-            <SocialButton url={site.siteMetadata.telegram} name="Telegram" />
-            <SocialButton url={site.siteMetadata.discord} name="Discord" />
+            <SocialButton
+              faIcon={faFacebookF}
+              url={site.siteMetadata.facebook}
+              name="Facebook"
+            />
+            <SocialButton
+              faIcon={faTelegram}
+              url={site.siteMetadata.telegram}
+              name="Telegram"
+            />
+            <SocialButton
+              faIcon={faDiscord}
+              url={site.siteMetadata.discord}
+              name="Discord"
+            />
           </div>
         </div>
       </div>
