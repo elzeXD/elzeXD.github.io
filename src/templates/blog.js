@@ -23,15 +23,15 @@ function BlogPage({ data }) {
         </p>
         <div className={Styles.lang}>
           <Link
-            className={lang == "id" ? Styles.selected : null}
             to={slug.replace(/\/en\//, "/id/")}
+            className={lang == "id" ? Styles.selected : null}
           >
             Indonesia
           </Link>{" "}
           |{" "}
           <Link
-            className={lang == "en" ? Styles.selected : null}
             to={slug.replace(/\/id\//, "/en/")}
+            className={lang == "en" ? Styles.selected : null}
           >
             English
           </Link>

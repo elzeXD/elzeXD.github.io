@@ -21,8 +21,8 @@
 .btn:focus,
 .btn:active,
 .btn:hover {
-  color: #ffffff;
-  text-decoration: none;
+  text-decoration: none !important;
+  color: #ffffff !important;
   text-transform: uppercase;
 }
 

@@ -87,5 +87,5 @@ lang:
 
     - Copy paste semua isi folder fix blank icon ke folder tema yang bermasalah.
 
-<button href="https://google.com" class="btn"><span class="name">DOWNLOAD DISINI</span></button>
-<button href="https://google.com" class="btn"><span class="name">DOWNLOAD DISINI</span></button>
+<a href="https://google.com" class="btn"><span class="name">DOWNLOAD DISINI</span></a>
+<a href="https://google.com" class="btn"><span class="name">DOWNLOAD DISINI</span></a>
