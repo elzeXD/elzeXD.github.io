@@ -3,6 +3,7 @@
   margin: 0 0.5rem;
   min-width: 8rem;
   border-radius: 0.2rem;
+  border: none;
   padding: 0.5rem;
   background-image: linear-gradient(to top right, #3646db, #3cbad6);
   transition: transform ease-out 0.25s;

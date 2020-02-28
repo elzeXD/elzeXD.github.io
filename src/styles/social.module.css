@@ -31,3 +31,13 @@
 .icon {
   margin-right: 0.5rem;
 }
+
+@media only screen and (max-width: 440px) {
+  .name {
+    font-size: 0.6rem;
+  }
+  .icon {
+    width: 0.75rem;
+    height: 0.75rem;
+  }
+}

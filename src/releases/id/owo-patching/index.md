@@ -1,14 +1,14 @@
 ---
 
-title: "Tutorial Install Theme Windows 10"
+title: "Tutorial Jadi furry"
 date: "2020-02-09"
 desc: "Tutorial install tools untuk patching theme di Windows 10. Sisanya kata kata pengganti biar card elementnya ga ngebug ok oce."
 cover: "./cover.jpg"
 lang:
   - id
 tags:
-  -  tutorial
-  -  theme
+  -  furry
+  -  gei
 
 ---
 

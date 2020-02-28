@@ -3,7 +3,6 @@ import React from "react"
 import Styles from "../styles/serviceCard.module.css"
 import SocialButton from "./socialButton"
 import {
-  fafacebookf,
   faFacebookF,
   faTelegram,
   faDiscord,

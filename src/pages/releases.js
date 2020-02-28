@@ -32,6 +32,7 @@ function Releases() {
         {data.allMarkdownRemark.edges.map(({ node }) => {
           return (
             <Card
+              key={node.id}
               title={node.frontmatter.title}
               desc={node.frontmatter.desc}
               slug={node.fields.slug}

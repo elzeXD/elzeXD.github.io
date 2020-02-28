@@ -9,7 +9,7 @@ const NotFoundPage = () => (
     <SEO title="404: Not found" />
     <div className={Styles.container}>
       <h1>Sorry bro, halamannya ilang. Gua gatau ilang kemana.</h1>
-      <img src={img} />
+      <img src={img} alt="404" />
     </div>
   </Layout>
 )
