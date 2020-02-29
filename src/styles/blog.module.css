@@ -10,9 +10,28 @@
   background-color: #ffffff;
 }
 
+.header {
+  position: relative;
+  z-index: -1;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1;
+  background-image: linear-gradient(to top, #161616, rgba(0, 0, 0, 0));
+}
+
+.image {
+  filter: brightness(0.2);
+}
+
 .title {
   margin-bottom: 0;
-  margin-top: 2rem;
+  margin-top: -15rem;
   text-align: center;
   font-family: "Oswald", Arial, Helvetica, sans-serif;
 }
@@ -63,4 +82,10 @@
 
 .content img {
   border-radius: 0.5rem;
+}
+
+@media only screen and (max-width: 640px) {
+  .title {
+    margin-top: -8rem;
+  }
 }

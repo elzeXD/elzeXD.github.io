@@ -5,6 +5,7 @@ import Layout from "../components/layout"
 import Styles from "../styles/blog.module.css"
 import "../styles/blogButton.css"
 import moment from "moment"
+import Img from "gatsby-image"
 
 function BlogPage({ data }) {
   const { title, date, cover, lang } = data.markdownRemark.frontmatter
@@ -18,6 +19,14 @@ function BlogPage({ data }) {
         image={cover.childImageSharp.fluid.src}
       />
       <div className={Styles.container}>
+        <div className={Styles.header}>
+          <div className={Styles.overlay}></div>
+          <Img
+            fluid={cover.childImageSharp.fluid}
+            alt="Header"
+            className={Styles.image}
+          />
+        </div>
         <h1 className={Styles.title}>{title}</h1>
         <p className={Styles.date}>
           Posted on {moment(date).format("dddd, DD MMMM YYYY")}
@@ -37,7 +46,6 @@ function BlogPage({ data }) {
             English
           </Link>
         </div>
-        <hr />
         <div
           className={Styles.content}
           dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }}
