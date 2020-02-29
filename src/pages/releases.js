@@ -16,6 +16,13 @@ function Releases() {
             }
             frontmatter {
               title
+              cover {
+                childImageSharp {
+                  fluid {
+                    ...GatsbyImageSharpFluid
+                  }
+                }
+              }
               desc
             }
             id
@@ -34,6 +41,7 @@ function Releases() {
             <Card
               key={node.id}
               title={node.frontmatter.title}
+              cover={node.frontmatter.cover.childImageSharp.fluid}
               desc={node.frontmatter.desc}
               slug={node.fields.slug}
             />

@@ -15,7 +15,7 @@ function BlogPage({ data }) {
         url={slug}
         title={title}
         description={data.markdownRemark.desc}
-        image={cover.childImageSharp.fixed.src}
+        image={cover.childImageSharp.fluid.src}
       />
       <div className={Styles.container}>
         <h1 className={Styles.title}>{title}</h1>
@@ -65,9 +65,6 @@ export const query = graphql`
           childImageSharp {
             fluid {
               ...GatsbyImageSharpFluid
-            }
-            fixed {
-              ...GatsbyImageSharpFixed
             }
           }
         }

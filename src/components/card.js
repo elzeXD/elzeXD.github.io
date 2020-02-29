@@ -4,7 +4,7 @@ import Styles from "../styles/card.module.css"
 import Img from "gatsby-image"
 import moment from "moment"
 
-function Card({ slug, title, desc, date }) {
+function Card({ slug, title, desc, date, cover }) {
   const data = useStaticQuery(graphql`
     {
       file(relativePath: { eq: "assets/placeholder.png" }) {
@@ -22,7 +22,7 @@ function Card({ slug, title, desc, date }) {
       <div className={Styles.container}>
         <Img
           className={Styles.img}
-          fluid={data.file.childImageSharp.fluid}
+          fluid={cover || data.file.childImageSharp.fluid}
           alt="Image"
         />
         <div className={Styles.wrapper}>
