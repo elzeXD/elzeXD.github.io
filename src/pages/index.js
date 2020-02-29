@@ -1,18 +1,12 @@
-import React, { useState } from "react"
-import { graphql, useStaticQuery } from "gatsby"
+import {faDeviantart, faFacebookF, faInstagram, faTelegram, faYoutube} from "@fortawesome/free-brands-svg-icons"
+import {faMoneyBill} from "@fortawesome/free-solid-svg-icons"
+import {graphql, useStaticQuery} from "gatsby"
+import React from "react"
 import Button from "../components/button"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import SocialButton from "../components/socialButton"
 import Styles from "../styles/index.module.css"
-import {
-  faFacebookF,
-  faInstagram,
-  faTelegram,
-  faYoutube,
-  faDeviantart,
-} from "@fortawesome/free-brands-svg-icons"
-import { faMoneyBill } from "@fortawesome/free-solid-svg-icons"
 
 function IndexPage() {
   const { site } = useStaticQuery(graphql`

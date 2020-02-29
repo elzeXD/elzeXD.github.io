@@ -1,5 +1,4 @@
 import React from "react"
-import { Link } from "gatsby"
 import Styles from "../styles/button.module.css"
 
 function SearchButton({ url, name, onClick }) {
