@@ -12,6 +12,7 @@ module.exports = {
     trakteer: `https://trakteer.id/elzeXD`,
     deviantart: `https://elzepc.deviantart.com`,
     discord: `https://discordapp.com/users/elze#2211`,
+    url: `https://elzeXD.github.io`,
     siteUrl: `https://elzeXD.github.io`,
   },
   plugins: [

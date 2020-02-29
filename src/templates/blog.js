@@ -12,6 +12,7 @@ function BlogPage({ data }) {
   return (
     <Layout>
       <SEO
+        url={slug}
         title={title}
         description={data.markdownRemark.desc}
         image={cover.childImageSharp.fixed.src}
