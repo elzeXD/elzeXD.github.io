@@ -12,7 +12,9 @@ tags:
 
 ---
 
-## SEBELUM INSTALL THEME-NYA JANGAN LUPA INSTALL DULU SEMUA PROGRAM YANG ADA DI FOLDER "WINDOWS 10 THEME TOOLS" SESUAI URUTAN!
+## SEBELUM INSTALL THEME-NYA DOWNLOAD DULU BAHANNYA DISINI!
+
+<a href="https://google.com" class="btn"><span class="name">DOWNLOAD DISINI</span></a>
 
 1. **BUAT RESTORE POINT TERDAHULU (SANGAT PENTING, UNTUK MEMBALIKKAN KEADAAN KALO TERJADI ERROR)**
 
@@ -22,21 +24,35 @@ tags:
 
    - Klik System Protection
 
+   ![step1-1](./001.jpg)
+
+   - Pilih drive C
+
    - Klik Configure
+   
+   ![step1-2](./002.jpg)
 
    - Klik Turn on system protection
 
    - Atur Disk Space Usage jadi 1% lalu OK
+   
+   ![step1-3](./003.jpg)
 
-   - Klik 2x RestorePoint.vbs, tunggu 5 menitan
+   - Klik Create, dan beri name 'Install Theme' atau nama lain
+   
+   ![step1-4](./004.jpg)
+
+   - Tunggu hingga selesai dan tekan OK.
 
 2. **Ultra UXTheme Patcher**
 
+   Jika tidak punya kuota, lanjut ke nomor 3.
+   
    Download [di sini](https://www.syssel.net/hoefs/software_uxtheme.php?lang=en), instal seperti biasa, lalu restart PC.
 
 3. **Theme Signature Bypass**
 
-   Jika tidak punya kuota atau takut patch, pakai ini.
+   Jika tidak punya kuota atau takut patch, pakai ini. Cukup instal seperti biasa.
 
 4. **Classic CP – digunakan untuk menambahkan pilihan Personalize Classic pada Klik Kanan**
 
@@ -51,6 +67,8 @@ tags:
    - pilih Yes.
 
 6. **OldNewExplorer – digunakan untuk menampilkan efek tema pada Explorer dan Control Panel.**
+   
+   Jika merasa ribet, lanjut ke nomor 6.
 
    - Buka OldNewExplorerCfg.exe
 
@@ -59,6 +77,8 @@ tags:
    - Centang semua yang ada di "Appereance" terkecuali Enable Glass on Navigation Bar.
 
    - Klik Install, lalu tekan Yes 2x
+   
+   ![step1-5](./005.jpg)
 
    - Restart Explorer (kalau gak ngerti, restart aja komputernya)
 
@@ -75,7 +95,9 @@ tags:
    - Buka folder Setup, buka StartIsBackPlusPlus_setup.exe lalu instal seperti biasa.
 
    - Buka folder TrialReset, buka StartIsBackTR.exe lalu pilih Install Autoreset.
-
+   
+   - Restart komputer anda.
+   
 9. **Install Tema**
 
    Instal seperti biasa. Password bervariasi, ada di installer!
@@ -85,12 +107,23 @@ tags:
     - Klik kanan di Desktop
 
     - Arahkan kursor ke Personalize (Classic) lalu pilih Theme Settings
+	
+	![step1-6](./006.jpg)
 
     - Scroll ke bawah, pilih tema yang diinstal tadi.
-
+	
+	**Untuk menerapkan tema di Start Menu)**
+	
+    - Klik kanan tombol start, lalu Properties.
+   
+    - Di bagian sebelah kiri, pilih Appearance.
+   
+    - Klik tampilan tema untuk menerapkan.
+   
+    - Jika ingin menambah tombol Start, pilih yang tersedia atau bisa ditambah dari file.
+	
+	![step1-7](./007.jpg)
+ 
 11. Jika icon blank
 
-    - Copy paste semua isi folder fix blank icon ke folder tema yang bermasalah.
-
-<a href="https://google.com" class="btn"><span class="name">DOWNLOAD DISINI</span></a>
-<a href="https://google.com" class="btn"><span class="name">DOWNLOAD DISINI</span></a>
+    - Ikuti tutorial [di sini](https://google.com).
