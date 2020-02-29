@@ -12,25 +12,39 @@ tags:
 
 ---
 
-## BEFORE YOU INSTALLING THE THEME, MAKE SURE YOU’VE INSTALLED ALL APPS IN “WINDOWS 10 THEME TOOLS” FOLDER!
+## BEFORE YOU INSTALLING THE THEME, DOWNLOAD THE TOOLS HERE:
+
+<a href="https://google.com" class="btn"><span class="name">DOWNLOAD HERE</span></a>
 
 1. **MAKE A RESTORE POINT FIRST (VERY IMPORTANT, TO UNDO ALL CHANGES IN CASE AN ERROR OCCURRED)**
 
     - Right- click This PC, and then click Properties
-
+ss
     - Click Advanced system settings
 
     - Click System Protection
 
+   ![step1-1](./001.jpg)
+
+    - Choose C drive
+
     - Click Configure
+
+   ![step1-2](./002.jpg)
 
     - Click Turn on system protection
 
     - Adjust Disk Space Usage to 1% then click OK
 
-    - Double-click RestorePoint.vbs, wait for 5 minutes
+   ![step1-3](./003.jpg)
 
-2. **Ultra UXTheme Patcher**
+   - Click on Create, and enter the name 'Install Theme' or anything else
+   
+   ![step1-4](./004.jpg)
+
+   - Wait until it finishes and press OK.
+
+2. **Ultra UXTheme Patcher, if you don't want to use it skip to number 3**
 
     Download [here](https://www.syssel.net/hoefs/software_uxtheme.php?lang=en), double-click it, follow the instructions, and restart your PC.
 
@@ -52,6 +66,8 @@ tags:
 
 6. OldNewExplorer – to show effect of theme on Explorer and Control Panel
 
+   **If you feel too difficult, skip to number 6**
+
     - Double- click OldNewExplorerCfg.exe
 
     - Don’t tick anything in "Behavior".
@@ -59,6 +75,8 @@ tags:
     - Tick everything in "Appereance" except Enable Glass on Navigation Bar.
 
     - Click Install, and choose Yes
+
+   ![step1-5](./005.jpg)
 
     - Restart Explorer (if you don’t understand, just restart the PC)
 
@@ -86,8 +104,22 @@ tags:
 
     - Select Personalize (Classic) then Theme Settings
 
-    - Choose the theme you have downloaded.
+    ![step1-6](./006.jpg)
+
+    - Choose the theme you have downloaded.\
+
+    **To apply the theme in the Start Menu**
+    
+    - Right click on Start Button and seelct Properties.
+   
+    - Choose Appearance in the left side.
+   
+    - Choose which theme to apply.
+   
+    - If you wanna change the Start button, choose the available one or you can add it from file.
+    
+    ![step1-7](./007.jpg)
 
 11. **If the icon blanks (Windows 10 1903 or newer)**
 
-    - Copy paste the whole contents in the fix folder to the theme folder that has problem.
+    - Follow [this tutorial](https://google.com).
