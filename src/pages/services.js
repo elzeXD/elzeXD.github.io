@@ -10,12 +10,9 @@ function Services() {
       <SEO title="Services" />
       <div className={Styles.container}>
         <ServiceCard
-          title="Jasa bikin lu bisa bernafas lagi"
-          desc="Deskripsi yang panjang ea mhank, soalnya kalo ga panjang ngebug. Awkaokwoakwoakwoawoakwoakow"
-        />
-        <ServiceCard
-          title="Jasa bikin orang tidur ga bangun lagi "
-          desc="Deskripsi yang panjang ea mhank, soalnya kalo ga panjang ngebug. Awkaokwoakwoakwoawoakwoakow"
+          url="/services/id/gdrive"
+          title="Jual akun Google Drive Unlimited"
+          desc="Saya menjual akun Google Drive dengan domain sekolah asli (sch.id), bukan asal-asalan apalagi tipu-tipu, dan ada surat resminya dari pemerintah."
         />
       </div>
     </Layout>

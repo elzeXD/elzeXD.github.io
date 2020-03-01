@@ -8,7 +8,7 @@ import {
   faDiscord,
 } from "@fortawesome/free-brands-svg-icons"
 
-function ServiceCard({ slug, title, desc, date }) {
+function ServiceCard({ slug, title, desc, date, url }) {
   const { site } = useStaticQuery(graphql`
     {
       site {
@@ -22,7 +22,7 @@ function ServiceCard({ slug, title, desc, date }) {
   `)
 
   return (
-    <Link to="/services">
+    <Link to={url}>
       <div className={Styles.container}>
         <div className={Styles.wrapper}>
           <span className={Styles.title}>{title}</span>
