@@ -1,96 +1,91 @@
 ---
 
-title: "Tutorial Jadi furry"
+title: "Tutorial Fix Blank Icon Setelah Install Theme Windows 10 (Build 1903 and up)"
 date: "2020-02-09"
-desc: "Tutorial install tools untuk patching theme di Windows 10. Sisanya kata kata pengganti biar card elementnya ga ngebug ok oce."
+desc: "Jika setelah install theme, iconnya jadi hilang, atau file-file anda jadi gelap hitam, mungkin ini akan membantu."
 cover: "./cover.jpg"
 lang:
   - id
 tags:
-  -  furry
-  -  gei
+  -  tutorial
+  -  theme
+  -  windows 10
+  -  blank icon
+  -  bug
+  -  shellstyle
 
 ---
 
-## SEBELUM INSTALL THEME-NYA JANGAN LUPA INSTALL DULU SEMUA PROGRAM YANG ADA DI FOLDER "WINDOWS 10 THEME TOOLS" SESUAI URUTAN!
+**Bayangin, lu udah download tema bagus, udah ikutin tutorial segala macem, tapi file lu jadi gelap kaya gini?**
 
-1. **BUAT RESTORE POINT TERDAHULU (SANGAT PENTING, UNTUK MEMBALIKKAN KEADAAN KALO TERJADI ERROR)**
+![bug1](./buggelap.jpg)
 
-   - Klik kanan This PC, lalu pilih Properties
+**Atau gini?**
 
-   - Klik Advanced system settings
+![bug2](./bugblank.jpg)
 
-   - Klik System Protection
+Tenang bro, lu ga bakal kena kasus penggelapan kok, karena yang salah itu temanya yang gak sesuai sama versi yang lu punya.
+Eh tapi lu juga salah sih, ga liat-liat versi :'v
+Tapi tenang aja, bisa kok diperbaiki! Mau tau caranya? Liat aja disini.
 
-   - Klik Configure
+## DOWNLOAD TERLEBIH DAHULU FILE-NYA DISINI!
+## BAKAL DI UPDATE SESUAI VERSI WINDOWS! CEK DULU PAKE WINVER
 
-   - Klik Turn on system protection
+**Kalau build lu gaada, pake aja yang paling baru disini**
 
-   - Atur Disk Space Usage jadi 1% lalu OK
+<a href="http://bit.ly/2HYS9iJ" class="btn"><span class="name">DOWNLOAD (BUILD 1903)</span></a>
 
-   - Klik 2x RestorePoint.vbs, tunggu 5 menitan
+# Udah download nih, terus cara makenya gimana?
 
-2. **Ultra UXTheme Patcher**
+Lihat video [berikut ini](https://youtu.be/AL3ZKjA0W94) .
 
-   Download [di sini](https://www.syssel.net/hoefs/software_uxtheme.php?lang=en), instal seperti biasa, lalu restart PC.
+Gapunya kuota? Yaudah deh ini aja.
 
-3. **Theme Signature Bypass**
 
-   Jika tidak punya kuota atau takut patch, pakai ini.
+1. **Terapkan tema standar dulu!**
 
-4. **Classic CP – digunakan untuk menambahkan pilihan Personalize Classic pada Klik Kanan**
+   Yaiyalah, lu mau liat filenya gimana coba?
 
-   - Buka InstallClassicCP.reg
+   Lah trus cara nerapinnya gimana? Kan gua gabisa apa-apa?
+   
+   Gampang! Tekan Win+R, terus ketik aja ***C:\Windows\Resources\Themes\aero.theme*** lalu *Enter*
 
-   - Pilih Yes.
+2. **Buka file yang didownload tadi**
 
-5. **Classic Context Menu – digunakan untuk menampilkan efek tema pada saat klik kanan**
+   Nah, disitu ada file patch-nya, format .exe, nah lu buka aja tuh.
 
-   - Buka Enable Classic Context Menu in Windows 10.reg
+3. **Minta password ya?**
 
-   - pilih Yes.
+   Noh password: ***elzeXD***
 
-6. **OldNewExplorer – digunakan untuk menampilkan efek tema pada Explorer dan Control Panel.**
+4. **Terus apaan lagi?**
 
-   - Buka OldNewExplorerCfg.exe
+   Nah, lu bakal liat tampilan kayak gini:
 
-   - Jangan di centang yang di "Behavior".
+   ![step](./interface.jpg)
+	  
+   Nah kan ada kotak tuh, Destination Folder. Cari folder tema yang ngebug tadi.
+   
+   Biasanya sih ada di ***C:\Windows\Resources\Themes***. 
+   
+   ![step](./folder-bug.jpg)
+   
+   Pastikan di folder itu ada file *.msstyles*. Itu dia foldernya.
 
-   - Centang semua yang ada di "Appereance" terkecuali Enable Glass on Navigation Bar.
+5. **Terus itu folder mau diapain?**
 
-   - Klik Install, lalu tekan Yes 2x
+   Path-nya copy aja ke aplikasinya. Lalu tekan Install. Sebenarnya mau browse manual juga bisa sih.
+   
+   ![step](./copyinterface.jpg)
 
-   - Restart Explorer (kalau gak ngerti, restart aja komputernya)
+6. **Udah nih, terus?**
 
-7. **Ribbon Disabler – (kalo gak mau ribet pake OldNewExplorer, pake ini aja) digunakan untuk menampilkan efek tema pada Explorer dan Control Panel.**
+   Yaudah terapin aja lagi temanya!
+   
 
-   - Buka folder x86 atau x64, sesuai dengan komputer anda
+Sekian tutorial unfaedah ini, kalo mau nanya lagi silahkan ke kontak person yang ada di home yaa.
 
-   - Klik 2x Ribbon disabler2.exe
+Btw, tema yang gua pake buat testing:
 
-   - Restart Explorer (kalau gak ngerti, restart aja komputernya)
-
-8. **StartIsBack – digunakan untuk mengganti tampilan Start Menu.**
-
-   - Buka folder Setup, buka StartIsBackPlusPlus_setup.exe lalu instal seperti biasa.
-
-   - Buka folder TrialReset, buka StartIsBackTR.exe lalu pilih Install Autoreset.
-
-9. **Install Tema**
-
-   Instal seperti biasa. Password bervariasi, ada di installer!
-
-10. **Ubah Tema**
-
-    - Klik kanan di Desktop
-
-    - Arahkan kursor ke Personalize (Classic) lalu pilih Theme Settings
-
-    - Scroll ke bawah, pilih tema yang diinstal tadi.
-
-11. Jika icon blank
-
-    - Copy paste semua isi folder fix blank icon ke folder tema yang bermasalah.
-
-<a href="https://google.com" class="btn"><span class="name">DOWNLOAD DISINI</span></a>
-<a href="https://google.com" class="btn"><span class="name">DOWNLOAD DISINI</span></a>
+- [Hataraku Saibou by EnjiRiz-PC](http://bit.ly/37V4sa9) (seharusnya Build 1809)
+- [Saekano Flat by Suck-Style](http://bit.ly/37V4sa9) (seharusnya Build 1607, gila lawas bet)
