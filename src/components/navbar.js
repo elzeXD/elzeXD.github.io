@@ -9,7 +9,7 @@ function Navbar() {
     <div className={Styles.container}>
       <div className={Styles.wrapper}>
         <Link className={Styles.logo}>
-          <FontAwesomeIcon icon={faHome} /> ElzeXD
+          <FontAwesomeIcon icon={faHome} size="1x" /> ElzeXD
         </Link>
         <Link to="/search" className={Styles.item}>
           SEARCH

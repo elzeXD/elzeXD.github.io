@@ -1,6 +1,12 @@
-import {faDeviantart, faFacebookF, faInstagram, faTelegram, faYoutube} from "@fortawesome/free-brands-svg-icons"
-import {faMoneyBill} from "@fortawesome/free-solid-svg-icons"
-import {graphql, useStaticQuery} from "gatsby"
+import {
+  faDeviantart,
+  faFacebookF,
+  faInstagram,
+  faTelegram,
+  faYoutube,
+} from "@fortawesome/free-brands-svg-icons"
+import { faMoneyBill } from "@fortawesome/free-solid-svg-icons"
+import { graphql, useStaticQuery } from "gatsby"
 import React from "react"
 import Button from "../components/button"
 import Layout from "../components/layout"
