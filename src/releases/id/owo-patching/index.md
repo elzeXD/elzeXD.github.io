@@ -87,5 +87,5 @@ Sekian tutorial unfaedah ini, kalo mau nanya lagi silahkan ke kontak person yang
 
 Btw, tema yang gua pake buat testing:
 
-- [Hataraku Saibou by EnjiRiz-PC](http://bit.ly/37V4sa9) (seharusnya Build 1809)
-- [Saekano Flat by Suck-Style](http://bit.ly/37V4sa9) (seharusnya Build 1607, gila lawas bet)
+- [Hataraku Saibou by EnjiRiz-PC](http://bit.ly/32pXUiT) (seharusnya Build 1809)
+- [Saekano Flat by Suck-Style](http://bit.ly/37XQKna) (seharusnya Build 1607, gila lawas bet)
