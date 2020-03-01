@@ -2,6 +2,7 @@
 
 title: "Installing Theme on Windows 10 "
 desc: "Tutorial install tools untuk patching theme di Windows 10. Sisanya kata kata pengganti biar card elementnya ga ngebug ok oce."
+date: "2020-02-29"
 cover: "./cover.jpg"
 lang:
   -  en

@@ -2,6 +2,7 @@
 
 title: "Tutorial Fix Blank Icon Setelah Install Theme Windows 10 (Build 1903 and up)"
 desc: "Jika setelah install theme, iconnya jadi hilang, atau file-file anda jadi gelap hitam, mungkin ini akan membantu."
+date: "2020-02-29"
 cover: "./cover.jpg"
 lang:
   - id

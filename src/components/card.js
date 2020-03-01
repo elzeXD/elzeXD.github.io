@@ -2,7 +2,6 @@ import React from "react"
 import { Link, graphql, useStaticQuery } from "gatsby"
 import Styles from "../styles/card.module.css"
 import Img from "gatsby-image"
-import moment from "moment"
 
 function Card({ slug, title, desc, cover }) {
   const data = useStaticQuery(graphql`
@@ -27,9 +26,6 @@ function Card({ slug, title, desc, cover }) {
         />
         <div className={Styles.wrapper}>
           <span className={Styles.title}>{title}</span>
-          <p className={Styles.date}>
-            Posted on {moment().format("dddd, DD MMMM YYYY")}
-          </p>
           <hr />
           <p className={Styles.desc}>{desc}</p>
         </div>
