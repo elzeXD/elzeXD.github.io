@@ -47,7 +47,7 @@ Gapunya kuota? Yaudah deh ini aja.
    Yaiyalah, lu mau liat filenya gimana coba?
 
    Lah trus cara nerapinnya gimana? Kan gua gabisa apa-apa?
-   
+
    Gampang! Tekan Win+R, terus ketik aja ***C:\Windows\Resources\Themes\aero.theme*** lalu *Enter*
 
 2. **Buka file yang didownload tadi**
@@ -63,25 +63,25 @@ Gapunya kuota? Yaudah deh ini aja.
    Nah, lu bakal liat tampilan kayak gini:
 
    ![step](./interface.jpg)
-	  
+
    Nah kan ada kotak tuh, Destination Folder. Cari folder tema yang ngebug tadi.
-   
-   Biasanya sih ada di ***C:\Windows\Resources\Themes***. 
-   
+
+   Biasanya sih ada di ***C:\Windows\Resources\Themes***.
+
    ![step](./folder-bug.jpg)
-   
+
    Pastikan di folder itu ada file *.msstyles*. Itu dia foldernya.
 
 5. **Terus itu folder mau diapain?**
 
    Path-nya copy aja ke aplikasinya. Lalu tekan Install. Sebenarnya mau browse manual juga bisa sih.
-   
+
    ![step](./copyinterface.jpg)
 
 6. **Udah nih, terus?**
 
    Yaudah terapin aja lagi temanya!
-   
+
 
 Sekian tutorial unfaedah ini, kalo mau nanya lagi silahkan ke kontak person yang ada di home yaa.
 
