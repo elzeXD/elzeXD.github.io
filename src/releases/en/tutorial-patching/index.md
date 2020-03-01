@@ -9,40 +9,41 @@ lang:
 tags:
   -  tutorial
   -  theme
-
+  -  windows 10
 ---
 
 ## BEFORE YOU INSTALLING THE THEME, DOWNLOAD THE TOOLS HERE:
+## WILL BE UPDATED ALONG WITH THE NEWEST WINDOWS BUILD!
 
-<a href="https://google.com" class="btn"><span class="name">DOWNLOAD HERE</span></a>
+<a href="http://bit.ly/2PpJWbq" class="btn"><span class="name">DOWNLOAD HERE</span></a>
 
 1. **MAKE A RESTORE POINT FIRST (VERY IMPORTANT, TO UNDO ALL CHANGES IN CASE AN ERROR OCCURRED)**
 
-    - Right- click This PC, and then click Properties
-ss
-    - Click Advanced system settings
+    - Right- click *This PC*, and then click *Properties*
 
-    - Click System Protection
+    - Click *Advanced system settings*
+
+    - Click *System Protection*
 
    ![step1-1](./001.jpg)
 
-    - Choose C drive
+    - Choose *C drive*
 
-    - Click Configure
+    - Click *Configure*
 
    ![step1-2](./002.jpg)
 
-    - Click Turn on system protection
+    - Click *Turn on system protection8
 
-    - Adjust Disk Space Usage to 1% then click OK
+    - Adjust *Disk Space Usage* to *1%* then click *OK*
 
    ![step1-3](./003.jpg)
 
-   - Click on Create, and enter the name 'Install Theme' or anything else
+   - Click on *Create*, and enter the name 'Install Theme' or anything else
    
    ![step1-4](./004.jpg)
 
-   - Wait until it finishes and press OK.
+   - Wait until it finishes and press *OK*.
 
 2. **Ultra UXTheme Patcher, if you don't want to use it skip to number 3**
 
@@ -54,45 +55,41 @@ ss
 
 4. **Classic CP – to add menu Personalize Classic on Right- Click**
 
-    - Double- click InstallClassicCP.reg
+    - Double- click *InstallClassicCP.reg*
 
-    - choose Yes.
+    - choose *Yes*.
 
 5. **Classic Context Menu – to show effect of theme on Right- Click menu**
 
-    - Double- click Enable Classic Context Menu in Windows 10.reg
+    - Double- click *Enable Classic Context Menu in Windows 10.reg*
 
-    - choose Yes.
+    - choose *Yes*.
 
 6. OldNewExplorer – to show effect of theme on Explorer and Control Panel
 
    **If you feel too difficult, skip to number 6**
 
-    - Double- click OldNewExplorerCfg.exe
+    - Double- click *OldNewExplorerCfg.exe*
 
-    - Don’t tick anything in "Behavior".
-
-    - Tick everything in "Appereance" except Enable Glass on Navigation Bar.
-
-    - Click Install, and choose Yes
+    - Follow this settings or customize like you want
 
    ![step1-5](./005.jpg)
 
-    - Restart Explorer (if you don’t understand, just restart the PC)
+    - *Restart Explorer* (if you don’t understand, just restart the PC)
 
 7. **Ribbon Disabler – (use this if you are confused with OldNewExplorer) to show effect of theme on Explorer and Control Panel**
 
-    - Open the folder x86 or x64 (Depends on your PC)
+    - Open the folder *x86* or *x64* (Depends on your PC)
 
-    - Double- click Ribbon disabler2.exe
+    - Double- click *Ribbon disabler2.exe*
 
-    - Restart Explorer (if you don’t understand, just restart the PC)
+    - *Restart Explorer* (if you don’t understand, just restart the PC)
 
 8. **StartIsBack – to change Start Menu style**
 
-    - Open Setup folder, open StartIsBackPlusPlus_setup.exe and install.
+    - Open *Setup* folder, open *StartIsBackPlusPlus_setup.exe* and install.
 
-    - Open TrialReset folder, open StartIsBackTR.exe and choose Install Autoreset.
+    - Open *TrialReset* folder, open *StartIsBackTR.exe* and choose Install Autoreset.
 
 9. **Install The Theme**
 
@@ -102,7 +99,7 @@ ss
 
     - Right- click on Desktop
 
-    - Select Personalize (Classic) then Theme Settings
+    - Select *Personalize (Classic)* then *Theme Settings*.
 
     ![step1-6](./006.jpg)
 
@@ -110,9 +107,9 @@ ss
 
     **To apply the theme in the Start Menu**
     
-    - Right click on Start Button and seelct Properties.
+    - Right click on Start Button and seelct *Properties.*
    
-    - Choose Appearance in the left side.
+    - Choose *Appearance* in the left side.
    
     - Choose which theme to apply.
    
@@ -122,4 +119,4 @@ ss
 
 11. **If the icon blanks (Windows 10 1903 or newer)**
 
-    - Follow [this tutorial](https://google.com).
+    - Follow [this tutorial](https://elzexd.github.io/releases/en/owo-patching/).
