@@ -1,85 +1,201 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Elze's Gallery]]></title><description><![CDATA[Ini ubah sendiri eak]]></description><link>https://elzeXD.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 01 Mar 2020 07:21:30 GMT</lastBuildDate><item><title><![CDATA[Tutorial Jadi furry]]></title><description><![CDATA[SEBELUM INSTALL THEME-NYA JANGAN LUPA INSTALL DULU SEMUA PROGRAM YANG ADA DI FOLDER "WINDOWS 10 THEME TOOLS" SESUAI URUTAN! BUAT RESTORE…]]></description><link>https://elzeXD.github.io/releases/en/owo-patching/</link><guid isPermaLink="false">https://elzeXD.github.io/releases/en/owo-patching/</guid><pubDate>Sun, 09 Feb 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;SEBELUM INSTALL THEME-NYA JANGAN LUPA INSTALL DULU SEMUA PROGRAM YANG ADA DI FOLDER &quot;WINDOWS 10 THEME TOOLS&quot; SESUAI URUTAN!&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Elze's Gallery]]></title><description><![CDATA[Ini ubah sendiri eak]]></description><link>https://elzeXD.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 01 Mar 2020 08:36:45 GMT</lastBuildDate><item><title><![CDATA[Fix Blank Icon After Installing Windows 10 Theme (Build 1903 and up)]]></title><description><![CDATA[Imagine, you've downloaded a nice theme, followed any kinds of tutorial, but ended up with this dark file like this?  Or this?  Chill, you…]]></description><link>https://elzeXD.github.io/releases/en/tutorial-fix-blank-icon/</link><guid isPermaLink="false">https://elzeXD.github.io/releases/en/tutorial-fix-blank-icon/</guid><pubDate>Sun, 09 Feb 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;Imagine, you&apos;ve downloaded a nice theme, followed any kinds of tutorial, but ended up with this dark file like this?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/9043ff11fb918c91c8bed348f0270408/ab20e/buggelap.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 87.81512605042016%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAASABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAUEAv/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAAB2yqUEssarfZEkan/xAAbEAACAwEBAQAAAAAAAAAAAAACAwABBBQSMf/aAAgBAQABBQLUy0r7yidFsHaBMTzOihNQ19jbv3//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAhEAABAwIHAQAAAAAAAAAAAAABAAIREiEQMTIzQVFxkf/aAAgBAQAGPwKoXv2tI+qTI8UMFRq4W25Q4FpTvcM1/8QAHBAAAwEAAgMAAAAAAAAAAAAAAAERIUFRkeHx/9oACAEBAAE/IYurMY+sGFTLORk8JVwwXrihwdjMzyivsaat5P/aAAwDAQACAAMAAAAQO98A/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/EGor/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAEQETH/2gAIAQIBAT8QtwxYf//EAB0QAQACAgMBAQAAAAAAAAAAAAEAESFBMXGRYfD/2gAIAQEAAT8QAOQNQUi66g46v3zD5h0aODb3ALFGU5OfT2DHdDhgc7I7x1G3OStYton2ey+HVhawWz//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;bug1&quot;
+        title=&quot;bug1&quot;
+        src=&quot;/static/9043ff11fb918c91c8bed348f0270408/6aca1/buggelap.jpg&quot;
+        srcset=&quot;/static/9043ff11fb918c91c8bed348f0270408/d2f63/buggelap.jpg 163w,
+/static/9043ff11fb918c91c8bed348f0270408/c989d/buggelap.jpg 325w,
+/static/9043ff11fb918c91c8bed348f0270408/6aca1/buggelap.jpg 650w,
+/static/9043ff11fb918c91c8bed348f0270408/ab20e/buggelap.jpg 714w&quot;
+        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Or this?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/9492fbdb82c95ce12aa8edff2445fbbd/29177/bugblank.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 84.913217623498%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAARABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAIDAQX/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAgH/2gAMAwEAAhADEAAAAfZqLncHBlmTVg//xAAZEAADAAMAAAAAAAAAAAAAAAAAAQIREjH/2gAIAQEAAQUCSNS6UNVON5LxbY+Rz//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABURAQEAAAAAAAAAAAAAAAAAACAh/9oACAECAQE/AYP/xAAYEAADAQEAAAAAAAAAAAAAAAAAEDERAf/aAAgBAQAGPwJYWUpp1//EAB0QAAIDAAIDAAAAAAAAAAAAAAARASExEEFRYXH/2gAIAQEAAT8hZAnkeTxk6aaaegiLFKvrODA0+n//2gAMAwEAAgADAAAAEEj3/f/EABoRAAICAwAAAAAAAAAAAAAAAAABEBEhMUH/2gAIAQMBAT8QyWuoW4//xAAYEQEBAAMAAAAAAAAAAAAAAAAAARExQf/aAAgBAgEBPxAxeVdI/8QAHRABAAMAAgMBAAAAAAAAAAAAAQARITGhQWFx8P/aAAgBAQABPxA73MvSGFdCBUsjDX7iHI4A8q4gE02WWQEwB8PU5/DO5Ozn/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;bug2&quot;
+        title=&quot;bug2&quot;
+        src=&quot;/static/9492fbdb82c95ce12aa8edff2445fbbd/6aca1/bugblank.jpg&quot;
+        srcset=&quot;/static/9492fbdb82c95ce12aa8edff2445fbbd/d2f63/bugblank.jpg 163w,
+/static/9492fbdb82c95ce12aa8edff2445fbbd/c989d/bugblank.jpg 325w,
+/static/9492fbdb82c95ce12aa8edff2445fbbd/6aca1/bugblank.jpg 650w,
+/static/9492fbdb82c95ce12aa8edff2445fbbd/29177/bugblank.jpg 749w&quot;
+        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Chill, you don&apos;t get any trouble at all. The problem here is the theme that doesn&apos;t suit your version.
+But hey, it&apos;s also your mistake, you don&apos;t check the version first lol.
+But calm down, it can be fixed! Wanna know how? Check this out.&lt;/p&gt;
+&lt;h2&gt;FIRST, DOWNLOAD THE REQUIRED FILES HERE!&lt;/h2&gt;
+&lt;h2&gt;WILL BE UPDATED ACCORDING TO YOUR WINDOWS VERSION! CHECK IT USING WINVER&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;If your build isn&apos;t available, just use the lates one here.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://bit.ly/2HYS9iJ&quot; class=&quot;btn&quot;&gt;&lt;span class=&quot;name&quot;&gt;DOWNLOAD (BUILD 1903)&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;Alright, I&apos;ve downloaded it. How am I gonna use it?&lt;/h1&gt;
+&lt;p&gt;Watch &lt;a href=&quot;https://youtu.be/AL3ZKjA0W94&quot;&gt;this video&lt;/a&gt; .&lt;/p&gt;
+&lt;p&gt;No quota? Alright then, proceed to read this article.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;BUAT RESTORE POINT TERDAHULU (SANGAT PENTING, UNTUK MEMBALIKKAN KEADAAN KALO TERJADI ERROR)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Klik kanan This PC, lalu pilih Properties&lt;/li&gt;
-&lt;li&gt;Klik Advanced system settings&lt;/li&gt;
-&lt;li&gt;Klik System Protection&lt;/li&gt;
-&lt;li&gt;Klik Configure&lt;/li&gt;
-&lt;li&gt;Klik Turn on system protection&lt;/li&gt;
-&lt;li&gt;Atur Disk Space Usage jadi 1% lalu OK&lt;/li&gt;
-&lt;li&gt;Klik 2x RestorePoint.vbs, tunggu 5 menitan&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Apply the standard theme first!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Obviously, how else are you going to see the files?&lt;/p&gt;
+&lt;p&gt;Wait, how am I gonna apply it? I literally can&apos;t do anything.&lt;/p&gt;
+&lt;p&gt;Gampang! Tekan Win+R, terus ketik aja &lt;strong&gt;&lt;em&gt;C:\Windows\Resources\Themes\aero.theme&lt;/em&gt;&lt;/strong&gt; lalu &lt;em&gt;Enter&lt;/em&gt;
+Simple! Press Win+R, then just type &lt;strong&gt;&lt;em&gt;C:\Windows\Resources\Themes\aero.theme&lt;/em&gt;&lt;/strong&gt; then &lt;em&gt;Enter&lt;/em&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Ultra UXTheme Patcher&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Download &lt;a href=&quot;https://www.syssel.net/hoefs/software_uxtheme.php?lang=en&quot;&gt;di sini&lt;/a&gt;, instal seperti biasa, lalu restart PC.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Open the previously downloaded file&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Alright, there&apos;s a patch file there with .exe format, simply open it up.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Theme Signature Bypass&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Jika tidak punya kuota atau takut patch, pakai ini.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Asking for password, eh?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The password: &lt;strong&gt;&lt;em&gt;elzeXD&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Classic CP – digunakan untuk menambahkan pilihan Personalize Classic pada Klik Kanan&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Buka InstallClassicCP.reg&lt;/li&gt;
-&lt;li&gt;Pilih Yes.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Now what?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Now, you&apos;ll see this interface&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 520px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/512b26c231234978d45389ddb8b36cef/ddb38/interface.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 74.80769230769229%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEFAwT/xAAVAQEBAAAAAAAAAAAAAAAAAAABAP/aAAwDAQACEAMQAAAB1qT+9mMH/8QAHBAAAQUAAwAAAAAAAAAAAAAAAgABAwQSEBMx/9oACAEBAAEFAqxdh5ZZZV4DjPzj/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEB/9oACAEDAQE/Abqv/8QAFxEAAwEAAAAAAAAAAAAAAAAAAhAhMf/aAAgBAgEBPwEti//EAB0QAAEDBQEAAAAAAAAAAAAAAAEAAxECECEiMTL/2gAIAQEABj8CcBzC8hcCcNUbX//EAB0QAAICAQUAAAAAAAAAAAAAAAABESExQWFx4fH/2gAIAQEAAT8hfkDUrdngD6oVgiaVfJTaEyf/2gAMAwEAAgADAAAAEJwP/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARUf/aAAgBAwEBPxAItdv/xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAgEBPxAEP//EAB4QAQEAAgEFAQAAAAAAAAAAAAERACFBMVFhkcHh/9oACAEBAAE/EHvgQCho16wPs+P1l5OhgS5Y1dr6ZCCU8S4S41rRM//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;step&quot;
+        title=&quot;step&quot;
+        src=&quot;/static/512b26c231234978d45389ddb8b36cef/ddb38/interface.jpg&quot;
+        srcset=&quot;/static/512b26c231234978d45389ddb8b36cef/d2f63/interface.jpg 163w,
+/static/512b26c231234978d45389ddb8b36cef/c989d/interface.jpg 325w,
+/static/512b26c231234978d45389ddb8b36cef/ddb38/interface.jpg 520w&quot;
+        sizes=&quot;(max-width: 520px) 100vw, 520px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;You see a box there, Destination Folder. Find the buggy theme.&lt;/p&gt;
+&lt;p&gt;Usually located at &lt;strong&gt;&lt;em&gt;C:\Windows\Resources\Themes&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/b7d0f3d4d1496c011824306b87a733c8/67e9d/folder-bug.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 37.74647887323944%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAIABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAEF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABzoDAn//EABYQAAMAAAAAAAAAAAAAAAAAAAACEv/aAAgBAQABBQK3LYpj/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFxAAAwEAAAAAAAAAAAAAAAAAAAEykf/aAAgBAQAGPwKmUynp/8QAGRAAAwEBAQAAAAAAAAAAAAAAAAERIVGR/9oACAEBAAE/IVslh1lbfQZj/9oADAMBAAIAAwAAABAMH//EABcRAQEBAQAAAAAAAAAAAAAAABEAASH/2gAIAQMBAT8Q6LO3/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8Qp//EABsQAQACAgMAAAAAAAAAAAAAAAEAESFBgdHw/9oACAEBAAE/ECnhDcby0GKkTheXc//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;step&quot;
+        title=&quot;step&quot;
+        src=&quot;/static/b7d0f3d4d1496c011824306b87a733c8/6aca1/folder-bug.jpg&quot;
+        srcset=&quot;/static/b7d0f3d4d1496c011824306b87a733c8/d2f63/folder-bug.jpg 163w,
+/static/b7d0f3d4d1496c011824306b87a733c8/c989d/folder-bug.jpg 325w,
+/static/b7d0f3d4d1496c011824306b87a733c8/6aca1/folder-bug.jpg 650w,
+/static/b7d0f3d4d1496c011824306b87a733c8/67e9d/folder-bug.jpg 710w&quot;
+        sizes=&quot;(max-width: 650px) 100vw, 650px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Make sure in that folder there is &lt;em&gt;.msstyles&lt;/em&gt;. That&apos;s the folder.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Classic Context Menu – digunakan untuk menampilkan efek tema pada saat klik kanan&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Buka Enable Classic Context Menu in Windows 10.reg&lt;/li&gt;
-&lt;li&gt;pilih Yes.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;What are we gonna do with it?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Just copy the path to the app, then click Install. Actually, you can browse the file manually.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 520px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/f0128316986daace0c5046cbb01f9182/ddb38/copyinterface.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 74.42307692307692%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFAQT/xAAVAQEBAAAAAAAAAAAAAAAAAAABAP/aAAwDAQACEAMQAAABbUndqsNC/8QAGhAAAQUBAAAAAAAAAAAAAAAAAAECAwQSMf/aAAgBAQABBQKq7b8oZQrwSRv4p//EABYRAQEBAAAAAAAAAAAAAAAAAAARAf/aAAgBAwEBPwHKr//EABcRAAMBAAAAAAAAAAAAAAAAAAIQITH/2gAIAQIBAT8BLYv/xAAcEAACAgIDAAAAAAAAAAAAAAAAAQMREDEhIkH/2gAIAQEABj8CkT5o0jSJG67HmP/EABwQAAICAgMAAAAAAAAAAAAAAAABESExQZHh8f/aAAgBAQABPyFuYNSsWzwh9QQgk0rY3U3wJP/aAAwDAQACAAMAAAAQnw//xAAYEQACAwAAAAAAAAAAAAAAAAAAEQExUf/aAAgBAwEBPxCSWNp//8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8QgP/EAB0QAQACAgIDAAAAAAAAAAAAAAEAESExUWGBkeH/2gAIAQEAAT8QTGggFOB6gFa+vqXCtUAmVy5ZXxuGQymrsLmxrGCp/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;step&quot;
+        title=&quot;step&quot;
+        src=&quot;/static/f0128316986daace0c5046cbb01f9182/ddb38/copyinterface.jpg&quot;
+        srcset=&quot;/static/f0128316986daace0c5046cbb01f9182/d2f63/copyinterface.jpg 163w,
+/static/f0128316986daace0c5046cbb01f9182/c989d/copyinterface.jpg 325w,
+/static/f0128316986daace0c5046cbb01f9182/ddb38/copyinterface.jpg 520w&quot;
+        sizes=&quot;(max-width: 520px) 100vw, 520px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;OldNewExplorer – digunakan untuk menampilkan efek tema pada Explorer dan Control Panel.&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Buka OldNewExplorerCfg.exe&lt;/li&gt;
-&lt;li&gt;Jangan di centang yang di &quot;Behavior&quot;.&lt;/li&gt;
-&lt;li&gt;Centang semua yang ada di &quot;Appereance&quot; terkecuali Enable Glass on Navigation Bar.&lt;/li&gt;
-&lt;li&gt;Klik Install, lalu tekan Yes 2x&lt;/li&gt;
-&lt;li&gt;Restart Explorer (kalau gak ngerti, restart aja komputernya)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Ribbon Disabler – (kalo gak mau ribet pake OldNewExplorer, pake ini aja) digunakan untuk menampilkan efek tema pada Explorer dan Control Panel.&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Buka folder x86 atau x64, sesuai dengan komputer anda&lt;/li&gt;
-&lt;li&gt;Klik 2x Ribbon disabler2.exe&lt;/li&gt;
-&lt;li&gt;Restart Explorer (kalau gak ngerti, restart aja komputernya)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;StartIsBack – digunakan untuk mengganti tampilan Start Menu.&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Buka folder Setup, buka StartIsBackPlusPlus_setup.exe lalu instal seperti biasa.&lt;/li&gt;
-&lt;li&gt;Buka folder TrialReset, buka StartIsBackTR.exe lalu pilih Install Autoreset.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Install Tema&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Instal seperti biasa. Password bervariasi, ada di installer!&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Ubah Tema&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Klik kanan di Desktop&lt;/li&gt;
-&lt;li&gt;Arahkan kursor ke Personalize (Classic) lalu pilih Theme Settings&lt;/li&gt;
-&lt;li&gt;Scroll ke bawah, pilih tema yang diinstal tadi.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Jika icon blank&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Copy paste semua isi folder fix blank icon ke folder tema yang bermasalah.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Done, now what?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Just re-apply the theme. As simple as that!&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&lt;a href=&quot;https://google.com&quot; class=&quot;btn&quot;&gt;&lt;span class=&quot;name&quot;&gt;DOWNLOAD DISINI&lt;/span&gt;&lt;/a&gt;
-&lt;a href=&quot;https://google.com&quot; class=&quot;btn&quot;&gt;&lt;span class=&quot;name&quot;&gt;DOWNLOAD DISINI&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Installing Theme on Windows 10 ]]></title><description><![CDATA[BEFORE YOU INSTALLING THE THEME, DOWNLOAD THE TOOLS HERE: WILL BE UPDATED ALONG WITH THE NEWEST WINDOWS BUILD! DOWNLOAD HERE MAKE A RESTORE…]]></description><link>https://elzeXD.github.io/releases/en/tutorial-patching/</link><guid isPermaLink="false">https://elzeXD.github.io/releases/en/tutorial-patching/</guid><pubDate>Sun, 09 Feb 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;BEFORE YOU INSTALLING THE THEME, DOWNLOAD THE TOOLS HERE:&lt;/h2&gt;
+&lt;p&gt;Alright, enough with the tutorial. If you have any question, feel free to hit me up on my social media located on the homepage.&lt;/p&gt;
+&lt;p&gt;Btw, these are the themes that I&apos;ve used for testing:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://bit.ly/32pXUiT&quot;&gt;Hataraku Saibou by EnjiRiz-PC&lt;/a&gt; (should be on Build 1809)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://bit.ly/37XQKna&quot;&gt;Saekano Flat by Suck-Style&lt;/a&gt; (should be on Build 1607, geez that is old)&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Installing Theme on Windows 10 ]]></title><description><![CDATA[BEFORE YOU INSTALLING THE THEME, DOWNLOAD THE TOOLS HERE: WILL BE UPDATED ALONG WITH THE NEWEST WINDOWS BUILD! DOWNLOAD HERE MAKE A RESTORE…]]></description><link>https://elzeXD.github.io/releases/en/tutorial-patching/</link><guid isPermaLink="false">https://elzeXD.github.io/releases/en/tutorial-patching/</guid><pubDate>Sun, 09 Feb 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;BEFORE YOU INSTALLING THE THEME, DOWNLOAD THE TOOLS HERE:&lt;/h2&gt;
 &lt;h2&gt;WILL BE UPDATED ALONG WITH THE NEWEST WINDOWS BUILD!&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;http://bit.ly/2PpJWbq&quot; class=&quot;btn&quot;&gt;&lt;span class=&quot;name&quot;&gt;DOWNLOAD HERE&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;ol&gt;
@@ -385,7 +501,7 @@
 &lt;li&gt;Follow &lt;a href=&quot;https://elzexd.github.io/releases/en/owo-patching/&quot;&gt;this tutorial&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;/ol&gt;</content:encoded></item><item><title><![CDATA[Tutorial Fix Blank Icon Setelah Install Theme Windows 10 (Build 1903 and up)]]></title><description><![CDATA[Bayangin, lu udah download tema bagus, udah ikutin tutorial segala macem, tapi file lu jadi gelap kaya gini?  Atau gini?  Tenang bro, lu ga…]]></description><link>https://elzeXD.github.io/releases/id/owo-patching/</link><guid isPermaLink="false">https://elzeXD.github.io/releases/id/owo-patching/</guid><pubDate>Sun, 09 Feb 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;Bayangin, lu udah download tema bagus, udah ikutin tutorial segala macem, tapi file lu jadi gelap kaya gini?&lt;/strong&gt;&lt;/p&gt;
+&lt;/ol&gt;</content:encoded></item><item><title><![CDATA[Tutorial Fix Blank Icon Setelah Install Theme Windows 10 (Build 1903 and up)]]></title><description><![CDATA[Bayangin, lu udah download tema bagus, udah ikutin tutorial segala macem, tapi file lu jadi gelap kaya gini?  Atau gini?  Tenang bro, lu ga…]]></description><link>https://elzeXD.github.io/releases/id/tutorial-fix-blank-icon/</link><guid isPermaLink="false">https://elzeXD.github.io/releases/id/tutorial-fix-blank-icon/</guid><pubDate>Sun, 09 Feb 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;Bayangin, lu udah download tema bagus, udah ikutin tutorial segala macem, tapi file lu jadi gelap kaya gini?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
@@ -505,7 +621,7 @@ Tapi tenang aja, bisa kok diperbaiki! Mau tau caranya? Liat aja disini.&lt;/p&gt
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Nah kan ada kotak tuh, Destination Folder. Cari folder tema yang ngebug tadi.&lt;/p&gt;
-&lt;p&gt;Biasanya sih ada di &lt;strong&gt;&lt;em&gt;C:\Windows\Resources\Themes&lt;/em&gt;&lt;/strong&gt;. &lt;/p&gt;
+&lt;p&gt;Biasanya sih ada di &lt;strong&gt;&lt;em&gt;C:\Windows\Resources\Themes&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 650px;&quot;
