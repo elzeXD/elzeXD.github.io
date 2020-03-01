@@ -8,7 +8,7 @@ import moment from "moment"
 import Img from "gatsby-image"
 
 function BlogPage({ data }) {
-  const { title, date, cover, lang } = data.markdownRemark.frontmatter
+  const { title, cover, lang } = data.markdownRemark.frontmatter
   const { slug } = data.markdownRemark.fields
   return (
     <Layout>
@@ -29,7 +29,7 @@ function BlogPage({ data }) {
         </div>
         <h1 className={Styles.title}>{title}</h1>
         <p className={Styles.date}>
-          Posted on {moment(date).format("dddd, DD MMMM YYYY")}
+          Posted on {moment().format("dddd, DD MMMM YYYY")}
         </p>
         <div className={Styles.lang}>
           <Link

@@ -4,7 +4,7 @@ import Styles from "../styles/card.module.css"
 import Img from "gatsby-image"
 import moment from "moment"
 
-function Card({ slug, title, desc, date, cover }) {
+function Card({ slug, title, desc, cover }) {
   const data = useStaticQuery(graphql`
     {
       file(relativePath: { eq: "assets/placeholder.png" }) {
@@ -28,7 +28,7 @@ function Card({ slug, title, desc, date, cover }) {
         <div className={Styles.wrapper}>
           <span className={Styles.title}>{title}</span>
           <p className={Styles.date}>
-            Posted on {moment(date).format("dddd, DD MMMM YYYY")}
+            Posted on {moment().format("dddd, DD MMMM YYYY")}
           </p>
           <hr />
           <p className={Styles.desc}>{desc}</p>

@@ -1,7 +1,6 @@
 ---
 
 title: "Fix Blank Icon After Installing Windows 10 Theme (Build 1903 and up)"
-date: "2020-02-09"
 desc: "If your icons went missing or your files turned into black, this article might help"
 cover: "./cover.jpg"
 lang:

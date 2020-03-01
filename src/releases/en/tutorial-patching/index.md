@@ -1,7 +1,6 @@
 ---
 
 title: "Installing Theme on Windows 10 "
-date: "2020-02-09"
 desc: "Tutorial install tools untuk patching theme di Windows 10. Sisanya kata kata pengganti biar card elementnya ga ngebug ok oce."
 cover: "./cover.jpg"
 lang:
@@ -40,7 +39,7 @@ tags:
    ![step1-3](./003.jpg)
 
    - Click on *Create*, and enter the name 'Install Theme' or anything else
-   
+
    ![step1-4](./004.jpg)
 
    - Wait until it finishes and press *OK*.
@@ -106,15 +105,15 @@ tags:
     - Choose the theme you have downloaded.\
 
     **To apply the theme in the Start Menu**
-    
+
     - Right click on Start Button and seelct *Properties.*
-   
+
     - Choose *Appearance* in the left side.
-   
+
     - Choose which theme to apply.
-   
+
     - If you wanna change the Start button, choose the available one or you can add it from file.
-    
+
     ![step1-7](./007.jpg)
 
 11. **If the icon blanks (Windows 10 1903 or newer)**
