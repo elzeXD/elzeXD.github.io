@@ -61,7 +61,7 @@
 }
 
 a {
-  color: #ffffff!;
+  color: #ffffff !important;
 }
 
 @media only screen and (max-width: 720px) {

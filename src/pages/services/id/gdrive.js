@@ -4,7 +4,6 @@ import SEO from "../../../components/seo"
 import Layout from "../../../components/layout"
 import Styles from "../../../styles/blog.module.css"
 import "../../../styles/blogButton.css"
-import Img from "gatsby-image"
 
 function Gdrive({ data }) {
   const { site } = useStaticQuery(graphql`
