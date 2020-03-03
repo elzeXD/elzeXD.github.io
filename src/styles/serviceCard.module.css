@@ -60,6 +60,10 @@
   display: flex;
 }
 
+a {
+  color: #ffffff!;
+}
+
 @media only screen and (max-width: 720px) {
   .container {
     display: block;
