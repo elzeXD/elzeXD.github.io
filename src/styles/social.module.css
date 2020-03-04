@@ -41,4 +41,7 @@
     height: 0.75rem;
     margin-right: 0.25rem;
   }
+  .btn {
+    margin: 0.5rem 0.2rem;
+  }
 }
