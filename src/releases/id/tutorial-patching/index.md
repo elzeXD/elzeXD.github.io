@@ -4,8 +4,7 @@ title: "Tutorial Install Theme Windows 10"
 desc: "Tutorial install tools untuk patching theme di Windows 10. Wajib diikuti, agar tidak ada yang komplain 'Bang, ini kenapa gabisa?' dan lain-lain sebagainya."
 date: "2020-02-29"
 cover: "./cover.jpg"
-lang:
-  - id
+lang: "id"
 tags:
   -  tutorial
   -  theme

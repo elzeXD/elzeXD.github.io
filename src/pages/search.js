@@ -22,8 +22,15 @@ function Search() {
             frontmatter {
               title
               desc
-              date(formatString: "MMMM DD, YYYY")
+              date
               tags
+              cover {
+                childImageSharp {
+                  fluid {
+                    ...GatsbyImageSharpFluid
+                  }
+                }
+              }
             }
             fields {
               slug
@@ -89,6 +96,7 @@ function Search() {
               title={node.frontmatter.title}
               desc={node.frontmatter.desc}
               slug={node.fields.slug}
+              cover={node.frontmatter.cover.childImageSharp.fluid}
             />
           )
         })}

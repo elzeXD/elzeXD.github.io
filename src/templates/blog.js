@@ -30,14 +30,14 @@ function BlogPage({ data }) {
         <div className={Styles.lang}>
           <Link
             to={slug.replace(/\/en\//, "/id/")}
-            className={lang == "id" ? Styles.selected : null}
+            className={lang === "id" ? Styles.selected : null}
           >
             Indonesia
           </Link>{" "}
           |{" "}
           <Link
             to={slug.replace(/\/id\//, "/en/")}
-            className={lang == "en" ? Styles.selected : null}
+            className={lang === "en" ? Styles.selected : null}
           >
             English
           </Link>

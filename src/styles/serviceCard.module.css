@@ -60,7 +60,7 @@
   display: flex;
 }
 
-a {
+.container a {
   color: #ffffff !important;
 }
 
