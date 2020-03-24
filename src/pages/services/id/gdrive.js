@@ -21,7 +21,7 @@ function Gdrive({ data }) {
       <SEO
         url={site.siteMetadata.url}
         title="Jual Akun Google Drive"
-        description="Saya menjual akun Google Drive dengan domain sekolah asli (sch.id), bukan asal-asalan apalagi tipu-tipu, dan ada surat resminya dari pemerintah."
+        description="Jual akun Google Drive unlimited asli, bukan asal-asalan apalagi tipu-tipu!"
       />
       <div className={Styles.container}>
         <h1 className={Styles.title} style={{ marginTop: `2rem` }}>
@@ -35,10 +35,13 @@ function Gdrive({ data }) {
         </div>
         <div className={Styles.content}>
           <p>
-            Saya menjual akun Google Drive dengan domain sekolah asli (sch.id),
-            bukan asal-asalan apalagi tipu-tipu, dan ada surat resminya dari
-            pemerintah.
+            Saya menjual akun Google Drive asli,
+            bukan asal-asalan apalagi tipu-tipu!
           </p>
+		  <p>
+			Domain yang digunakan: nndrive . my . id
+			Contoh email: namakamu @ nndrive . my . id
+		  </p>	
           <h2>KELEBIHAN:</h2>
           <ul>
             <li>100% LEGAL DAN RESMI, TERDAFTAR DI PEMERINTAH</li>
@@ -66,7 +69,7 @@ function Gdrive({ data }) {
             <li>Stok terbatas</li>
           </ul>
           <p>
-            Pemesanan bisa dari sini atau dari WA! Pembayaran via
+            Pemesanan bisa langsung hubungi kontak di halaman ini! Pembayaran via
             GoPay/OVO/Pulsa Tsel
           </p>
           <h1>MEMBELI = MENGERTI!</h1>
