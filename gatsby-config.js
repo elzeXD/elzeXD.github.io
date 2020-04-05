@@ -3,8 +3,8 @@ const path = require("path")
 module.exports = {
   siteMetadata: {
     title: `Elze's Gallery`,
-    author: `Elze`,
-    description: `Ini ubah sendiri eak`,
+    author: `ElzeXD`,
+    description: `Welcome to my website. I do design and UI Customizing. Kalo mau tau lebih lanjut, jumpai langsung aja orangnya, gak gigit kok.`,
     facebook: `https://facebook.com/elzeXD`,
     youtube: `https://www.youtube.com/channel/UCK0o03L2vIAk_kYpACYlr8A`,
     instagram: `https://www.instagram.com/elzexd`,
