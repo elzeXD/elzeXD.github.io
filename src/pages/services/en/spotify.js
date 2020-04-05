@@ -20,7 +20,7 @@ function Spotify({ data }) {
     <Layout>
       <SEO
         url={site.siteMetadata.url}
-        title="Jual Alun & Jasa Upgrade Spotify Premium 12 Bulan"
+        title="Jual Akun & Jasa Upgrade Spotify Premium 12 Bulan"
         description="Tersedia paket 12 bulan! Harga cuma 50k!"
       />
       <div className={Styles.container}>
