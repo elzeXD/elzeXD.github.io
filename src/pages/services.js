@@ -11,8 +11,13 @@ function Services() {
       <div className={Styles.container}>
         <ServiceCard
           url="/services/id/gdrive"
-          title="Jual akun Google Drive Unlimited"
-          desc="Saya menjual akun Google Drive dengan domain sekolah asli (sch.id), bukan asal-asalan apalagi tipu-tipu, dan ada surat resminya dari pemerintah."
+          title="Jual Akun Google Drive Unlimited"
+          desc="Saya menjual akun Google Drive, bukan asal-asalan apalagi tipu-tipu. Bisa custom username, domain: @nndrive.my.id"
+        />
+		<ServiceCard
+          url="/services/id/spotify"
+          title="Jual & Upgrade Akun Spotify Premium"
+          desc="Jual Jasa Upgrade Spotify ke Premium. Bisa pakai akun sendiri, atau akun dari kami. Asli, bukan curian apalagi mod. Bergaransi, jadi kalau akun tidak premium silahkan hubungi kembali."
         />
       </div>
     </Layout>
