@@ -20,12 +20,12 @@ function Spotify({ data }) {
     <Layout>
       <SEO
         url={site.siteMetadata.url}
-        title="Jual & Upgrade Akun Spotify Premium"
+        title="Jual dan Upgrade Akun Spotify Premium"
         description="Tersedia paket 12 bulan! Akun asli, bukan APK mod! 100 persen amanah!"
       />
       <div className={Styles.container}>
         <h1 className={Styles.title} style={{ marginTop: `2rem` }}>
-          Jual & Upgrade Akun Spotify Premium
+          Jual dan Upgrade Akun Spotify Premium
         </h1>
         <div className={Styles.lang}>
           <Link to="/services/id/spotify" className={Styles.selected}>
@@ -36,15 +36,14 @@ function Spotify({ data }) {
         <div className={Styles.content}>
           <p>
             Tersedia paket 12 bulan!
+			Akun yang kami jual adalah asli dan legal!
           </p>
 		  <p>
 			Butuh email dan password Spotify anda, kami akan jaga amanah anda, data tidak akan kami salahgunakan!		
-		  </p>	
-  		  <p>
 			Jika mau, bisa akun	dari kami juga, emailnya tinggal diganti!
 		  </p>    		  
 		  <p>
-			PS. Tidak support akun Facebook
+			PS. Tidak support akun Facebook!
 		  </p>  		 
 		  <p>
 			100% ASLI, BUKAN AKUN CURIAN ATAU MOD!
