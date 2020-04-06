@@ -17,7 +17,7 @@ tags:
 
 <a href="http://bit.ly/2PpJWbq" class="btn"><span class="name">DOWNLOAD DISINI</span></a>
 
-1. **BUAT RESTORE POINT TERDAHULU (SANGAT PENTING, UNTUK MEMBALIKKAN KEADAAN KALO TERJADI ERROR)**
+1. **BUAT RESTORE POINT TERLEBIH DAHULU (SANGAT PENTING, UNTUK MEMBALIKKAN KEADAAN KALO TERJADI ERROR)**
 
    - Klik kanan *This PC*, lalu pilih *Properties*
 
