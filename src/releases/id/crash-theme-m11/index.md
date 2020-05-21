@@ -24,7 +24,7 @@ Support: System, WhatsApp, IG, YouTube, Keyboard Xperia
 
 **Screenshots:**
 
-![ss1](./cover.jpg)
+![ss1](./ss1.jpg)
 ![ss2](./ss2.jpg)
 ![ss3](./ss3.jpg)
 ![ss4](./ss4.jpg)
