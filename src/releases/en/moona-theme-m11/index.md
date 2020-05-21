@@ -23,6 +23,8 @@ Support: System, WhatsApp, IG, YouTube, Keyboard Xperia
 
 **Support Dark Mode, you can try it yourself**
 
+[**Watch the video on my YouTube**](https://www.youtube.com/watch?v=7B7L93sst1s)
+
 **Screenshots:**
 
 ![ss1](./cover.jpg)
