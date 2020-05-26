@@ -1,6 +1,6 @@
 ---
 
-title: "[MIUI 10-11 Theme] Senko"
+title: "[MIUI 10-11 Theme] Senko-san The Helpful Fox"
 desc: ""
 date: "2019-08-07"
 cover: "./cover.jpg"
