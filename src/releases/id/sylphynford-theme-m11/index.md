@@ -16,8 +16,11 @@ tags:
 **Hello, today I'll share my theme for MIUI 11. This time from a series Himouto! Umaru-chan, Tachibana Sylphynford.**
 
 Chara: Tachibana Sylphynford
+
 Series: Himouto! Umaru-chan
+
 Platform: MIUI 11
+
 Support: System, WhatsApp, IG, YouTube
 
 **Support Dark Mode, you can try it yourself**
@@ -27,9 +30,13 @@ Support: System, WhatsApp, IG, YouTube
 # Screenshots
 
 ![ss1](./cover.jpg)
+
 ![ss2](./ss1.jpg)
+
 ![ss2](./ss2.jpg)
+
 ![ss3](./ss3.jpg)
+
 ![ss4](./ss4.jpg)
 
 

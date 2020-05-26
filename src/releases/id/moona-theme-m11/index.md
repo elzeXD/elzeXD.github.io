@@ -13,12 +13,16 @@ tags:
 
 ---
 
-**Hello, today I'll share my theme for MIUI 11. This time from an Indonesian VTuber from Hololive, Moona Hoshinova.
+**Hello, today I'll share my theme for MIUI 11. This time from an Indonesian VTuber from Hololive, Moona Hoshinova.**
+
 **Well, again, this is was on trending, so I decided to make a theme of it.**
 
 Chara: Moona Hoshinova
+
 Series: Hololive-ID
+
 Platform: MIUI 11
+
 Support: System, WhatsApp, IG, YouTube, Keyboard Xperia
 
 **Support Dark Mode, you can try it yourself**
@@ -28,9 +32,13 @@ Support: System, WhatsApp, IG, YouTube, Keyboard Xperia
 # Screenshots:
 
 ![ss1](./cover.jpg)
+
 ![ss2](./ss2.jpg)
+
 ![ss3](./ss3.jpg)
+
 ![ss4](./ss4.jpg)
+
 ![ss5](./ss5.jpg)
 
 

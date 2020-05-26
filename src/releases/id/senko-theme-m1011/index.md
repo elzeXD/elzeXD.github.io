@@ -14,11 +14,15 @@ tags:
 ---
 
 **Hello, today I'll share my theme for MIUI 10 and 11. This time is Senko from the anime Sewayaki Kitsune no Senko-san.**
+
 **Well, this is my first anime theme but published too late, after someone stole this theme and claiming its own.**
 
 Chara: Senko
+
 Series: Sewayaki Kitsune no Senko-san.
+
 Platform: MIUI 10 and 11
+
 Support: System, WhatsApp, YouTube
 
 **This theme doesn't support Dark Mode**
@@ -30,8 +34,11 @@ Support: System, WhatsApp, YouTube
 # Screenshots: (provided by Xiaomi)
 
 ![ss1](./cover.jpg)
+
 ![ss2](./ss2.jpg)
+
 ![ss3](./ss3.jpg)
+
 ![ss4](./ss4.jpg)
 
 

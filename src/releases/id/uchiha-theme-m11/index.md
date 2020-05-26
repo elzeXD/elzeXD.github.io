@@ -13,12 +13,16 @@ tags:
 
 ---
 
-**Hello, today I'll share my theme for MIUI 11. This time is Uchiha family from Naruto series.**
+**Hello, today I'll share my theme for MIUI 11. This time is Uchiha family from Naruto series.**\
+
 **This is paid theme, btw**
 
-Chara: Uchiha family
+Chara: Uchiha family\
+
 Series: Naruto
+
 Platform: MIUI 11
+
 Support: System, WhatsApp, IG, YouTube, Keyboard XPeria
 
 **Support Dark Mode, you can try it yourself**
@@ -26,9 +30,13 @@ Support: System, WhatsApp, IG, YouTube, Keyboard XPeria
 # Screenshots:
 
 ![ss1](./cover.jpg)
+
 ![ss2](./ss1.jpg)
+
 ![ss2](./ss2.jpg)
+
 ![ss3](./ss3.jpg)
+
 ![ss4](./ss4.jpg)
 
 
