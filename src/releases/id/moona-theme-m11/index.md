@@ -25,7 +25,7 @@ Support: System, WhatsApp, IG, YouTube, Keyboard Xperia
 
 [**Watch the video on my YouTube**](https://www.youtube.com/watch?v=7B7L93sst1s)
 
-**Screenshots:**
+# Screenshots:
 
 ![ss1](./cover.jpg)
 ![ss2](./ss2.jpg)

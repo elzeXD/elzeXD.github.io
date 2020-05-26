@@ -27,7 +27,7 @@ Support: System, WhatsApp, YouTube
 
 **Note: some elemets may be different with the original due to copyright.**
 
-**Screenshots: (provided by Xiaomi)**
+# Screenshots: (provided by Xiaomi)
 
 ![ss1](./cover.jpg)
 ![ss2](./ss2.jpg)

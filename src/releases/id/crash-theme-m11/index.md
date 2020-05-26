@@ -22,7 +22,7 @@ Support: System, WhatsApp, IG, YouTube, Keyboard Xperia
 
 **Support Dark Mode, you can try it yourself**
 
-**Screenshots:**
+# Screenshots:
 
 ![ss1](./cover.jpg)
 ![ss2](./ss2.jpg)

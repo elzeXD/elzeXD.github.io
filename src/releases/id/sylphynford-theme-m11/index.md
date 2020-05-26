@@ -24,7 +24,7 @@ Support: System, WhatsApp, IG, YouTube
 
 [**Watch the video on my YouTube**](https://www.youtube.com/watch?v=lC97vMN1Th4&t=152s)
 
-**Screenshots:**
+# Screenshots
 
 ![ss1](./cover.jpg)
 ![ss2](./ss1.jpg)
