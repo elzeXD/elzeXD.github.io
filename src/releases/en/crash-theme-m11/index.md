@@ -4,7 +4,7 @@ title: "[MIUI 11 Theme] Crash Landing on You"
 desc: ""
 date: "2020-04-25"
 cover: "./cover.jpg"
-lang: "id"
+lang: "en"
 tags:
   -  crash landing on you
   -  theme

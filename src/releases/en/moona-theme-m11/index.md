@@ -4,7 +4,7 @@ title: "[MIUI 11 Theme] Moona Hoshinova from Hololive-ID"
 desc: ""
 date: "2020-04-14"
 cover: "./cover.jpg"
-lang: "id"
+lang: "en"
 tags:
   -  moona hoshinova
   -  hololive id

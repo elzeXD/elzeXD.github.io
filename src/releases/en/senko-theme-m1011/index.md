@@ -4,7 +4,7 @@ title: "[MIUI 10-11 Theme] Senko"
 desc: ""
 date: "2019-08-07"
 cover: "./cover.jpg"
-lang: "id"
+lang: "en"
 tags:
   -  senko
   -  anime
