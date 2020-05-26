@@ -1,7 +1,7 @@
 ---
 
 title: "[MIUI 11 Theme] Moona Hoshinova from Hololive-ID"
-desc: ""
+desc: "Hello, today I'll share my theme for MIUI 11. This time from an Indonesian VTuber from Hololive, Moona Hoshinova. Well, again, this is was on trending, so I decided to make a theme of it."
 date: "2020-04-14"
 cover: "./cover.jpg"
 lang: "id"

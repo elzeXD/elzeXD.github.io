@@ -1,7 +1,7 @@
 ---
 
 title: "[MIUI 11 Theme] Tachibana Sylphynford"
-desc: ""
+desc: "Hello, today I'll share my theme for MIUI 11. This time from a series Himouto! Umaru-chan, Tachibana Sylphynford."
 date: "2020-03-26"
 cover: "./cover.jpg"
 lang: "id"
@@ -13,7 +13,7 @@ tags:
 
 ---
 
-**Hello, today I'll share my theme for MIUI 11. This time from a series Himouto! Umaru-chan, Tachibana Sylphynford.
+**Hello, today I'll share my theme for MIUI 11. This time from a series Himouto! Umaru-chan, Tachibana Sylphynford.**
 
 Chara: Tachibana Sylphynford
 Series: Himouto! Umaru-chan

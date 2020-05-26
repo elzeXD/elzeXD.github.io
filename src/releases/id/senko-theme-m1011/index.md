@@ -1,7 +1,7 @@
 ---
 
 title: "[MIUI 10-11 Theme] Senko-san The Helpful Fox"
-desc: ""
+desc: "Hello, today I'll share my theme for MIUI 10 and 11. This time is Senko from the anime Sewayaki Kitsune no Senko-san. Well, this is my first anime theme but published too late, after someone stole this theme and claiming its own."
 date: "2019-08-07"
 cover: "./cover.jpg"
 lang: "id"

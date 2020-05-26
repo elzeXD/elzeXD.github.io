@@ -1,7 +1,7 @@
 ---
 
 title: "[MIUI 11 Theme] Uchiha Family by Ikrom and me (PAID)"
-desc: ""
+desc: "Hello, today I'll share my theme for MIUI 11. This time is Uchiha family from Naruto series. This is paid theme, btw."
 date: "2020-04-01"
 cover: "./cover.jpg"
 lang: "id"
@@ -13,7 +13,8 @@ tags:
 
 ---
 
-**Hello, today I'll share my theme for MIUI 11. This time is Uchiha family from Naruto series.
+**Hello, today I'll share my theme for MIUI 11. This time is Uchiha family from Naruto series.**
+**This is paid theme, btw**
 
 Chara: Uchiha family
 Series: Naruto
