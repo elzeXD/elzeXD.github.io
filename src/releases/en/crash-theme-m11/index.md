@@ -1,30 +1,29 @@
 ---
 
 title: "[MIUI 11 Theme] Crash Landing on You"
-desc: "Halo, kali ini saya bakal share tema drakor, Crash Landing On You. Request by Iqbalnisme. Tembus: System, WhatsApp, IG, YouTube, Keyboard Xperia"
+desc: "Hello, today I'll share my theme for MIUI 11. This time from Korean Drama, Crash Landing on You. This theme was requested by Iqbalnisme. Support: System, WhatsApp, IG, YouTube, Keyboard Xperia"
 date: "2020-04-25"
 cover: "./cover.jpg"
-lang: "id"
+lang: "en"
 tags:
   -  crash landing on you
   -  theme
   -  miui 11
-
 ---
 
-**Halo, kali ini saya bakal share tema drakor, Crash Landing On You.**
+**Hello, today I'll share my theme for MIUI 11. This time from Korean Drama, Crash Landing on You.**
 
-**Request by Iqbalnisme.**
+**This theme was requested by Iqbalnisme.**
 
-**Saya buat ini gara-gara drakornya lagi trending di kalangan teman-teman saya, saya iseng nonton, akhirnya pas ada yang request, yaudah bikin**
+**I don't know why this drama was so famous, but when he requested me to build this theme, I decided to watch the show first and I can say that the show is amazing.**
 
 Series: Crash Landing on You
 
 Platform: MIUI 11
 
-Tembus: System, WhatsApp, IG, YouTube, Keyboard Xperia
+Support: System, WhatsApp, IG, YouTube, Keyboard Xperia
 
-**Support Dark Mode**
+**Support Dark Mode, you can try it yourself**
 
 # Screenshots:
 

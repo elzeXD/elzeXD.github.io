@@ -1,10 +1,10 @@
 ---
 
 title: "[MIUI 10-11 Theme] Senko-san The Helpful Fox"
-desc: "Hai, kali ini saya bakal share tema anime pertama saya, sori lama publish, keburu kena begal duluan. Tembus: System, WhatsApp, YouTube"
+desc: "Hello, today I'll share my theme for MIUI 10 and 11. This time is Senko from the anime Sewayaki Kitsune no Senko-san. Well, this is my first anime theme but published too late, after someone stole this theme and claiming its own. Support: System, WhatsApp, YouTube"
 date: "2019-08-07"
 cover: "./cover.jpg"
-lang: "id"
+lang: "en"
 tags:
   -  senko
   -  anime
@@ -13,7 +13,9 @@ tags:
 
 ---
 
-**Hai, kali ini saya bakal share tema anime pertama saya, sori lama publish, keburu kena begal duluan**
+**Hello, today I'll share my theme for MIUI 10 and 11. This time is Senko from the anime Sewayaki Kitsune no Senko-san.**
+
+**Well, this is my first anime theme but published too late, after someone stole this theme and claiming its own.**
 
 Chara: Senko
 
@@ -21,15 +23,15 @@ Series: Sewayaki Kitsune no Senko-san.
 
 Platform: MIUI 10 and 11
 
-Tembus: System, WhatsApp, YouTube
+Support: System, WhatsApp, YouTube
 
-**Tema ini nggak support Dark Mode.**
+**This theme doesn't support Dark Mode**
 
-[**Tonton video di YT**](https://www.youtube.com/watch?v=YPgh2M6bLf4)
+[**Watch the video on my YouTube**](https://www.youtube.com/watch?v=YPgh2M6bLf4)
 
-**Catatan: Hasil akhir bakal beda sama di SS, soalnya kena copyright.**
+**Note: some elemets may be different with the original due to copyright.**
 
-# Screenshot: (provided by Xiaomi)
+# Screenshots: (provided by Xiaomi)
 
 ![ss1](./cover.jpg)
 

@@ -1,11 +1,10 @@
 ---
 
 title: "[MIUI 11 Theme] Moona Hoshinova from Hololive-ID"
-desc: "Halo, kali ini saya bakal share tema yang lagi anget, Moona Hoshinova, Virtual YouTuber dari Hololive-ID. Tembus: System, WhatsApp, IG, YouTube, Keyboard Xperia
-"
+desc: "Hello, today I'll share my theme for MIUI 11. This time from an Indonesian VTuber from Hololive, Moona Hoshinova. Well, again, this is was on trending, so I decided to make a theme of it. Support: System, WhatsApp, IG, YouTube, Keyboard Xperia"
 date: "2020-04-14"
 cover: "./cover.jpg"
-lang: "id"
+lang: "en"
 tags:
   -  moona hoshinova
   -  hololive id
@@ -14,9 +13,9 @@ tags:
 
 ---
 
-**Halo, kali ini saya bakal share tema yang lagi anget, Moona Hoshinova, Virtual YouTuber dari Hololive-ID.**
+**Hello, today I'll share my theme for MIUI 11. This time from an Indonesian VTuber from Hololive, Moona Hoshinova.**
 
-**Ya lagi trending, auto bikin bos :'v**
+**Well, again, this is was on trending, so I decided to make a theme of it.**
 
 Chara: Moona Hoshinova
 
@@ -24,9 +23,9 @@ Series: Hololive-ID
 
 Platform: MIUI 11
 
-Tembus: System, WhatsApp, IG, YouTube, Keyboard Xperia
+Support: System, WhatsApp, IG, YouTube, Keyboard Xperia
 
-**Support Dark Mode**
+**Support Dark Mode, you can try it yourself**
 
 [**Watch the video on my YouTube**](https://www.youtube.com/watch?v=7B7L93sst1s)
 

@@ -1,19 +1,18 @@
 ---
 
 title: "[MIUI 11 Theme] Tachibana Sylphynford"
-desc: "Halo, kali ini saya bakal share tema, Tachibana Sylphynford dari anime Himouto! Umaru-chan. Tembus: System, WhatsApp, IG, YouTube"
+desc: "Hello, today I'll share my theme for MIUI 11. This time from a series Himouto! Umaru-chan, Tachibana Sylphynford. Support: System, WhatsApp, IG, YouTube"
 date: "2020-03-26"
 cover: "./cover.jpg"
-lang: "id"
+lang: "en"
 tags:
   -  tachibana sylphynford
   -  himouto umaru chan
   -  theme
   -  miui 11
-
 ---
 
-**Halo, kali ini saya bakal share tema, Tachibana Sylphynford dari anime Himouto! Umaru-chan.**
+**Hello, today I'll share my theme for MIUI 11. This time from a series Himouto! Umaru-chan, Tachibana Sylphynford.**
 
 Chara: Tachibana Sylphynford
 
@@ -21,11 +20,11 @@ Series: Himouto! Umaru-chan
 
 Platform: MIUI 11
 
-Tembus: System, WhatsApp, IG, YouTube
+Support: System, WhatsApp, IG, YouTube
 
-**Support Dark Mode**
+**Support Dark Mode, you can try it yourself**
 
-[**Tonton video di YouTube**](https://www.youtube.com/watch?v=lC97vMN1Th4&t=152s)
+[**Watch the video on my YouTube**](https://www.youtube.com/watch?v=lC97vMN1Th4&t=152s)
 
 # Screenshots
 
