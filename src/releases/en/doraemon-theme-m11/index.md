@@ -34,13 +34,13 @@ Support: System, WhatsApp, IG, YouTube
 
 ![ss2](./ss1.jpg)
 
-![ss2](./ss2.jpg)
+![ss3](./ss2.jpg)
 
-![ss3](./ss3.jpg)
+![ss4](./ss3.jpg)
 
-![ss4](./ss4.jpg)
+![ss5](./ss4.jpg)
 
-![ss5](./ss5.jpg)
+![ss6](./ss5.jpg)
 
 
 <a href="https://semawur.com/nvzOvhfK" class="btn"><span class="name">DIRECT LINK (GDrive Mirror)</span></a>
