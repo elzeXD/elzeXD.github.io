@@ -35,16 +35,17 @@ Platform: Windows 10 Build 1903-2004
 
 <a href="http://fav.me/ddycqdr" class="btn"><span class="name">DOWNLOAD INSTALLER HERE</span></a>
 
-In order to get password and unlock theme, you have to donate first.
+**In order to get password and unlock theme, you have to donate first.**
 
 # For Indonesian:
 
-Donasi via Trakteer seharga 15.000 (1 buah kopi). Bisa gunakan tombol di bawah:
+**Untuk mendapatkan Password dan Unlock: Ikuti instruksi di installer .exe, atau bisa langsung donasi via Trakteer seharga 15.000 (1 buah kopi). Bisa gunakan tombol di bawah:**
 
 <a href="https://trakteer.id/elzeXD/showcase/yuuko-aioi-theme-windows-10-build-1903-sd-2004-WcngJ" class="btn"><span class="name">DONATE (INDONESIA)</span></a>
 
-Lalu konfirmasi ke kontak person yang ada di halaman utama atau via Telegram (fast respond) ke tombol dibawah, dengan mengirimkan bukti dan juga email.
+Lalu konfirmasi ke kontak person yang ada **di halaman utama** atau **via Telegram (fast respond ke tombol dibawah**, dengan mengirimkan bukti dan juga email.
 
+Setelah itu, password dan unlock akan di-emailkan.
 
 # For foreigners:
 

@@ -39,15 +39,15 @@ Sayang sekali, tema ini tidaklah gratis.
 
 **Untuk mendapatkan Password dan Unlock: Ikuti instruksi di installer .exe, atau bisa langsung donasi via Trakteer seharga 15.000 (1 buah kopi). Bisa gunakan tombol di bawah:**
 
-<a href="https://trakteer.id/elzeXD/showcase/yuuko-aioi-theme-windows-10-build-1903-sd-2004-WcngJ" class="btn"><span class="name">DONASI</span></a>
+<a href="https://trakteer.id/elzeXD/showcase/yuuko-aioi-theme-windows-10-build-1903-sd-2004-WcngJ" class="btn"><span class="name">DONASI (via Trakteer)</span></a>
 
-Lalu konfirmasi ke kontak person yang ada di halaman utama atau via Telegram (fast respond) ke tombol dibawah, dengan mengirimkan bukti dan juga email.
+Lalu konfirmasi ke kontak person yang ada **di halaman utama** atau **via Telegram (fast respond ke tombol dibawah**, dengan mengirimkan bukti dan juga email.
 
 Setelah itu, password dan unlock akan di-emailkan.
 
 <a href="http://t.me/elzeXD" class="btn"><span class="name">KONFIRMASI DONASI (via Telegram)</span></a>
 
-# Dilarang keras menyebarkan password dan file unlock! Anda tidak akan jadii pahlawan kesiangan dengan melakukan hal itu. Yang ada, anda jadi begal dan menghalangi pintu rezeki orang.
+# Dilarang keras menyebarkan password dan file unlock! Anda tidak akan jadii pahlawan kesiangan dengan melakukan hal itu. Yang ada, anda jadi begal dan menghalangi pintu rezeki orang. Dosa, tau.
 
 
 
