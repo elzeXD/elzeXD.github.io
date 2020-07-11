@@ -41,7 +41,7 @@ Platform: Windows 10 Build 1903-2004
 
 <a href="https://trakteer.id/elzeXD/showcase/hilda-theme-windows-10-build-1903-sd-2004-u7TU8" class="btn"><span class="name">DONATE (INDONESIA)</span></a>
 
-Lalu konfirmasi ke kontak person yang ada **di halaman utama** atau **via Telegram (fast respond ke tombol dibawah**, dengan mengirimkan bukti dan juga email.
+Lalu konfirmasi ke kontak person yang ada **di halaman utama** atau **via Telegram (fast respond ke tombol dibawah)**, dengan mengirimkan bukti dan juga email.
 
 Setelah itu, password dan unlock akan di-emailkan.
 

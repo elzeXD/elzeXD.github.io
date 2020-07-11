@@ -56,7 +56,7 @@ Tembus: System, WhatsApp, IG, YouTube
 
 <a href="https://trakteer.id/elzeXD/showcase/umaru-theme-miui-12-Igk3V" class="btn"><span class="name">DONASI (via Trakteer)</span></a>
 
-Lalu konfirmasi ke kontak person yang ada **di halaman utama** atau **via Telegram (fast respond ke tombol dibawah**, dengan mengirimkan bukti dan juga email.
+Lalu konfirmasi ke kontak person yang ada **di halaman utama** atau **via Telegram (fast respond ke tombol dibawah)**, dengan mengirimkan bukti dan juga email.
 
 Setelah itu, file tema akan di-emailkan.
 

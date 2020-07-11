@@ -41,13 +41,13 @@ Sayang sekali, tema ini tidaklah gratis.
 
 <a href="https://trakteer.id/elzeXD/showcase/yuuko-aioi-theme-windows-10-build-1903-sd-2004-WcngJ" class="btn"><span class="name">DONASI (via Trakteer)</span></a>
 
-Lalu konfirmasi ke kontak person yang ada **di halaman utama** atau **via Telegram (fast respond ke tombol dibawah**, dengan mengirimkan bukti dan juga email.
+Lalu konfirmasi ke kontak person yang ada **di halaman utama** atau **via Telegram (fast respond ke tombol dibawah)**, dengan mengirimkan bukti dan juga email.
 
 Setelah itu, password dan unlock akan di-emailkan.
 
 <a href="http://t.me/elzeXD" class="btn"><span class="name">KONFIRMASI DONASI (via Telegram)</span></a>
 
-# Dilarang keras menyebarkan password dan file unlock! Anda tidak akan jadii pahlawan kesiangan dengan melakukan hal itu. Yang ada, anda jadi begal dan menghalangi pintu rezeki orang. Dosa, tau.
+# Dilarang keras menyebarkan password dan file unlock! Anda tidak akan jadi pahlawan kesiangan dengan melakukan hal itu. Yang ada, anda jadi begal dan menghalangi pintu rezeki orang. Dosa, tau.
 
 
 
