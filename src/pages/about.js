@@ -10,7 +10,7 @@ const AboutPage = () => (
 	<div className={Styles.container}>
     <h1></h1>
     <h1></h1>
-    <h1 style="text-align: center;">Tentang</h1>
+    <h1>Tentang</h1>
         <div className={Styles.lang}>
           <Link to="/about" className={Styles.selected}>
             Indonesia

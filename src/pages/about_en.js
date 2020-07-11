@@ -10,7 +10,7 @@ const AboutPage = () => (
 	<div className={Styles.container}>
     <h1></h1>
     <h1></h1>
-    <h1 style="text-align: center;">About</h1>
+    <h1>About</h1>
 	   <div className={Styles.lang}>
          <Link to="/about">Indonesia</Link> |{" "}
          <Link to="/about_en" className={Styles.selected}>
