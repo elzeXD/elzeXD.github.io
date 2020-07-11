@@ -9,7 +9,8 @@ const AboutPage = () => (
     <SEO title="About" />
 	<div className={Styles.container}>
     <h1></h1>
-    <h1>Tentang</h1>
+    <h1></h1>
+    <h1 style="text-align: center;">Tentang</h1>
         <div className={Styles.lang}>
           <Link to="/about" className={Styles.selected}>
             Indonesia
@@ -18,7 +19,7 @@ const AboutPage = () => (
         </div>
     <div className={Styles.content}>
     <p>Halo semua!</p>
-	<p>Nama saya Vincent Siahaan, juga dikenal sebagai elzeXD ddi beberapa tempat.</p>
+	<p>Nama saya Vincent Siahaan, juga dikenal sebagai elzeXD di beberapa tempat.</p>
 	<p>Saya hanya seorang anak muda yang menyukai hal-hal berbau teknologi.</p>
 	<p>Masa kecil saya sudah ditemani dengan teknologi, dan itu membawa saya sampai kepada hari ini, dan saya masih menyukainya sampai sekarang.</p>
 	<p>Meski begitu, saya tidak punya dasar-dasar tentang IT sebelumnya. :p</p>
