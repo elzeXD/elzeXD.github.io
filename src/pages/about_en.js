@@ -7,8 +7,10 @@ import SEO from "../components/seo"
 const AboutPage = () => (
   <Layout>
     <SEO title="About" />
-	<div className={Styles.container}>
-    <h1>About</h1>
+      <div className={Styles.container}>
+        <h1 className={Styles.title} style={{ marginTop: `2rem` }}>
+          About
+        </h1>
 	   <div className={Styles.lang}>
          <Link to="/about">Indonesia</Link> |{" "}
          <Link to="/about_en" className={Styles.selected}>
