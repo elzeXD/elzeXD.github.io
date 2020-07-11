@@ -48,7 +48,7 @@ const Layout = ({ children }) => {
         >
           &copy; 2020 elze | Vincent S, with{" "}
           <span style={{ color: "salmon" }}>&hearts;</span> by{" "}
-          <a href="https://elianivaa.github.io" style={{ color: `#3ba3d7` }}>
+          <a href="https://elianiva.github.io" style={{ color: `#3ba3d7` }}>
             Elianiva
           </a>
         </footer>
