@@ -64,9 +64,9 @@ function Alphacentauristore({ data }) {
           </ul>
           <p>
             What are you waiting for? Come and join now in Alpha Centauri Store Discord Server! 
-			 
-            Link Invite: https://discord.io/acshop or https://discord.gg/w8sanMP
-          </p>
+			</p>	
+            <a href="https://discord.io/acshop" class="btn"><span class="name">Join via Invite Link</span></a>
+			<p>For those who don't have Discord, you can contact me directly via the contact person in the home page.</p>
           <h1>MEMBELI = MENGERTI!</h1>
         </div>
         <hr />

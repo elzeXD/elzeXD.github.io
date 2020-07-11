@@ -62,9 +62,10 @@ function Alphacentauristore({ data }) {
             <li>Ada forum diskusi, dan bisa request produk!</li>
           </ul>
           <p>
-            Tunggu apalagi? Yuk gabung di server Discord Alpha Centauri Store sekarang! 
-            <a href="https://discord.io/acshop" class="btn"><span class="name">Link Invite</span></a>
-          </p>
+            Tunggu apalagi? Yuk gabung di server Discord Alpha Centauri Store sekarang!
+			</p>	
+            <a href="https://discord.io/acshop" class="btn"><span class="name">Gabung via Link Invite</span></a>
+			<p>Bagi yang ga punya Discord, silahkan hubungi saya secara langsung melalui contact person di halaman utama.</p>
           <h1>MEMBELI = MENGERTI!</h1>
         </div>
         <hr />
