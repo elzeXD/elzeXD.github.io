@@ -36,8 +36,7 @@ function IndexPage() {
       <div className={Styles.container}>
         <h1>{site.siteMetadata.title}</h1>
         <div className={Styles.ctaWrapper}>
-          <Button url="/releases" name="Releases" />
-          <Button url="/services" name="services/Jasa" />
+          <Button url="/releases" name="Releases/Article" />
         </div>
         <div className={Styles.buttons}>
           <SocialButton
