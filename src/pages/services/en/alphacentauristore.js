@@ -38,17 +38,17 @@ function Alphacentauristore({ data }) {
             Dibuka untuk umum! Alpha Centauri Store, Marketplace Premium Terlengkap, Termurah, dan Terpercaya!
           </p>
 		  <p>
-			Kami akan selalu update produk, baik untuk keperluan pribadi maupun bisnis!<br>
-      Harga nyaman di kantong dan terus mengikuti sesuai perkembangan zaman!<br>
-      Metode pembayaran bervariasi, bisa dipilih sesuai keinginan!<br>
+			Kami akan selalu update produk, baik untuk keperluan pribadi maupun bisnis!
+      Harga nyaman di kantong dan terus mengikuti sesuai perkembangan zaman!
+      Metode pembayaran bervariasi, bisa dipilih sesuai keinginan!
 			</p>	
           <h2>Menyediakan:</h2>
           <ul>
             <li>Digital Product, seperti Discord Nitro, Google Drive Unlimited, Spotify Premium, Netflix Premium, dan lain-lain!</li>
             <li>Pembelian pulsa dan paket data!</li>
             <li>Tools Dunia Bisnis, seperti RDP, Google Cloud, Google AdWords, Vultr, AWS, dan lain-lain!</li>
-            <li>Jasa menambah followers/peminat di sosial media!</li>
-            <li>Isi ulang/top-up saldo e-commerce, seperti Go-Pay, OVO, DANA, Shopee Pay, dan lain-lain!</li>
+            <li>Jasa menambah followers atau peminat di sosial media!</li>
+            <li>Isi ulang atau top-up saldo e-commerce, seperti Go-Pay, OVO, DANA, Shopee Pay, dan lain-lain!</li>
             <li>Pembayaran tagihan listrik, BPJS, dan lain-lain!</li>
             <li>Jasa top-up game, pembelian voucher, serta jual beli akun game!</li>
             <li>Convert pulsa ke platform e-commerce lain, dengan rate yang bersahabat!</li>
@@ -62,8 +62,8 @@ function Alphacentauristore({ data }) {
           </ul>
           <p>
             Tunggu apalagi? Yuk gabung di server Discord Alpha Centauri Store sekarang! 
-            <a href="https://discord.io/acshop" class="btn"><span class="name">Link Invite 1</span></a>
-            <a href="https://discord.gg/w8sanMP" class="btn"><span class="name">Link Invite 2</span></a>
+            <a href="https://discord.io/acshop>Link 1</a>
+            <a href="https://discord.gg/w8sanMP>Link 2</a>
           </p>
           <h1>MEMBELI = MENGERTI!</h1>
         </div>
