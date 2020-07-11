@@ -1,6 +1,6 @@
 ---
 
-title: "[MIUI 11 Theme] Doraemon by me, Excoz &amp; Rangga Aprilia"
+title: "[MIUI 11 Theme] Doraemon by me, Excoz & Rangga Aprilia"
 desc: "Hello, today I'll be sharing Doraemon theme. Support: System, WhatsApp, IG, YouTube."
 date: "2020-04-07"
 cover: "./cover.jpg"

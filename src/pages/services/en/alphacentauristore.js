@@ -28,8 +28,8 @@ function Alphacentauristore({ data }) {
           Alpha Centauri Store - Marketplace Premium Terlengkap, Termurah, dan Terpercaya!
         </h1>
         <div className={Styles.lang}>
-          <Link to="/services/id/gdrive">Indonesia</Link> |{" "}
-          <Link to="/services/en/gdrive" className={Styles.selected}>
+          <Link to="/services/id/alphacentauristore">Indonesia</Link> |{" "}
+          <Link to="/services/en/alphacentauristore" className={Styles.selected}>
             English
           </Link>
         </div>

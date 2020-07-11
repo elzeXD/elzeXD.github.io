@@ -1,6 +1,6 @@
 ---
 
-title: "[MIUI 11 Theme] Doraemon by me, Excoz &amp; Rangga Aprilia"
+title: "[MIUI 11 Theme] Doraemon by me, Excoz & Rangga Aprilia"
 desc: "Halo, kali ini saya bakal share tema Doraemon. Jadi kemarin saya ada ketemu pintu kemana saja. Tapi kok tutup? Pas saya tanya, ternyata lagi lockdown. Yaudah, kita #DiRumahAja ya teman-teman... Tembus: System, WhatsApp, IG, YouTube. Kemaren ada yang begal, tapi sukur yang dibegal versi WIP"
 date: "2020-04-07"
 cover: "./cover.jpg"

@@ -13,7 +13,8 @@ function ServiceCard({ slug, title, desc, date, url }) {
     {
       site {
         siteMetadata {
-          facebook
+          discordac
+		  facebook
           telegram
           discord
         }
@@ -30,20 +31,30 @@ function ServiceCard({ slug, title, desc, date, url }) {
         <hr />
         <p className={Styles.desc}>{desc}</p>
         <div className={Styles.buttons}>
+		  <SocialButton
+            faIcon={faDiscord}
+            url={site.siteMetadata.discordac}
+            name="Alpha Centauri Store Discord Server"
+          />
           <SocialButton
             faIcon={faFacebookF}
             url={site.siteMetadata.facebook}
             name="Facebook"
+          />
+		  <SocialButton
+            faIcon={faFacebookF}
+            url={site.siteMetadata.instagram}
+            name="Instagram"
           />
           <SocialButton
             faIcon={faTelegram}
             url={site.siteMetadata.telegram}
             name="Telegram"
           />
-          <SocialButton
-            faIcon={faDiscord}
+		 <SocialButton
+            faIcon={faTelegram}
             url={site.siteMetadata.discord}
-            name="Discord"
+            name="My Discord"
           />
         </div>
       </div>
