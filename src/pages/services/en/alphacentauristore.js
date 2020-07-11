@@ -20,12 +20,12 @@ function Alphacentauristore({ data }) {
     <Layout>
       <SEO
         url={site.siteMetadata.url}
-        title="Alpha Centauri Store, Marketplace Premium Terlengkap, Termurah, dan Terpercaya!"
-        description="Info selengkapnya klik di judul."
+        title="Alpha Centauri Store - The Cheapest and Reliable Premium Marketplace!"
+        description="Click on the title for more info."
       />
       <div className={Styles.container}>
         <h1 className={Styles.title} style={{ marginTop: `2rem` }}>
-          Alpha Centauri Store - Marketplace Premium Terlengkap, Termurah, dan Terpercaya!
+          Alpha Centauri Store - The Cheapest and Reliable Premium Marketplace!
         </h1>
         <div className={Styles.lang}>
           <Link to="/services/id/alphacentauristore">Indonesia</Link> |{" "}
@@ -35,35 +35,37 @@ function Alphacentauristore({ data }) {
         </div>
         <div className={Styles.content}>
           <p>
-            Dibuka untuk umum! 
-			Alpha Centauri Store, Marketplace Premium Terlengkap, Termurah, dan Terpercaya!           
+            INDONESIAN ONLY MARKETPLACE!        
           </p>
 		  <p>
-			Kami akan selalu update produk, baik untuk keperluan pribadi maupun bisnis!
-			Harga nyaman di kantong dan terus mengikuti sesuai perkembangan zaman!
-			Metode pembayaran bervariasi, bisa dipilih sesuai keinginan!
+		We will always update products, both for personal and business purposes!
+ 
+		Prices are very comfortable!
+ 
+		Provides vary payment methods, that you can choose!
 		  </p>	
-          <h2>Menyediakan:</h2>
+          <h2>We provide:</h2>
           <ul>
-			<li>Digital Product, seperti Discord Nitro, Google Drive Unlimited, Spotify Premium, Netflix Premium, dan lain-lain!</li>
-            <li>Pembelian pulsa dan paket data!</li>
-            <li>Tools Dunia Bisnis, seperti RDP, Google Cloud, Google AdWords, Vultr, AWS, dan lain-lain!</li>
-            <li>Jasa menambah followers atau peminat di sosial media!</li>
-            <li>Isi ulang atau top-up saldo e-commerce, seperti Go-Pay, OVO, DANA, Shopee Pay, dan lain-lain!</li>
-            <li>Pembayaran tagihan listrik, BPJS, dan lain-lain!</li>
-            <li>Jasa top-up game, pembelian voucher, serta jual beli akun game!</li>
-            <li>Convert pulsa ke platform e-commerce lain, dengan rate yang bersahabat!</li>
-            <li>Serta jasa-jasa menarik dari partner kami!</li>
+			<li>Digital Products, such as Discord Nitro, Google Drive Unlimited, Spotify Premium, Netflix Premium, and more!</li>
+            <li>Credit and data packages purchase!</li>
+            <li>Business Tools, such as RDP, Google Cloud, Google AdWords, Vultr, AWS, and more!</li>
+            <li>Add followers in your social media!</li>
+            <li>Top-up e-commerce balances, such as Go-Pay, OVO, DANA, Shopee Pay, and more!</li>
+            <li>Payment of electricity bills, BPJS, and more</li>
+            <li>Game top-up services, voucher purchases, and buying and selling game accounts!</li>
+            <li>Convert your balance to other e-commerce platforms, at a friendly rate!</li>
+            <li>And more attractive services from our partners!</li>
           </ul>
-          <h2>Selain itu...</h2>
+          <h2>Other than that...</h2>
           <ul>
-			<li>Seller dan admin yang ramah!</li>
-            <li>Testimoni 100 persen asli dan no tipu-tipu!</li>
-            <li>Ada forum diskusi, dan bisa request produk!</li>
+			<li>Friendly seller and admins!</li>
+            <li>100% genuine testimonials!</li>
+            <li>Have access to discussion forum, and you can request products!</li>
           </ul>
           <p>
-            Tunggu apalagi? Yuk gabung di server Discord Alpha Centauri Store sekarang! 
-            Link Invite: https://discord.io/acshop atau https://discord.gg/w8sanMP
+            What are you waiting for? Come and join now in Alpha Centauri Store Discord Server! 
+			 
+            Link Invite: https://discord.io/acshop or https://discord.gg/w8sanMP
           </p>
           <h1>MEMBELI = MENGERTI!</h1>
         </div>
