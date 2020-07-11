@@ -8,7 +8,7 @@ function Navbar() {
   return (
     <div className={Styles.container}>
       <div className={Styles.wrapper}>
-        <Link className={Styles.logo}>
+        <Link to="/index" className={Styles.logo}>
           <FontAwesomeIcon icon={faHome} size="1x" /> ElzeXD
         </Link>
         <Link to="/search" className={Styles.item}>
