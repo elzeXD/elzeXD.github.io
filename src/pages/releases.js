@@ -8,7 +8,7 @@ import Styles from "../styles/releases.module.css"
 function Releases() {
   const data = useStaticQuery(graphql`
     {
-      allMarkdownRemark(filter: { frontmatter: { lang: { eq: "id" } } 
+      allMarkdownRemark(filter: { frontmatter: { lang: { eq: "id" } } }
 	  sort: { fields: [frontmatter___date], order: DESC } 
 	  ) {
         edges {
