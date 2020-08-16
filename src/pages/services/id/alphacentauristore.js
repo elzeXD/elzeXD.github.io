@@ -20,12 +20,12 @@ function Alphacentauristore({ data }) {
     <Layout>
       <SEO
         url={site.siteMetadata.url}
-        title="Alpha Centauri Store, Marketplace Premium Terlengkap, Termurah, dan Terpercaya!"
+        title="Bugcat Shop, Marketplace Premium Terlengkap, Termurah, dan Terpercaya!"
         description="Info selengkapnya klik di judul."
       />
       <div className={Styles.container}>
         <h1 className={Styles.title} style={{ marginTop: `2rem` }}>
-          Alpha Centauri Store - Marketplace Premium Terlengkap, Termurah, dan Terpercaya!
+          Bugcat Shop - Marketplace Premium Terlengkap, Termurah, dan Terpercaya!
         </h1>
         <div className={Styles.lang}>
           <Link to="/services/id/alphacentauristore" className={Styles.selected}>
@@ -36,7 +36,7 @@ function Alphacentauristore({ data }) {
         <div className={Styles.content}>
           <p>
             Dibuka untuk umum! 
-			Alpha Centauri Store, Marketplace Premium Terlengkap, Termurah, dan Terpercaya!           
+			Bugcat Shop, Marketplace Premium Terlengkap, Termurah, dan Terpercaya!           
           </p>
 		  <p>
 			Kami akan selalu update produk, baik untuk keperluan pribadi maupun bisnis!
@@ -62,7 +62,7 @@ function Alphacentauristore({ data }) {
             <li>Ada forum diskusi, dan bisa request produk!</li>
           </ul>
           <p>
-            Tunggu apalagi? Yuk gabung di server Discord Alpha Centauri Store sekarang!
+            Tunggu apalagi? Yuk gabung di server Discord Bugcat Shop sekarang!
 			</p>	
             <a href="https://discord.io/acshop" class="btn"><span class="name">Gabung via Link Invite</span></a>
 			<p>Bagi yang ga punya Discord, silahkan hubungi saya secara langsung melalui contact person di halaman utama.</p>

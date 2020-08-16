@@ -20,12 +20,12 @@ function Alphacentauristore({ data }) {
     <Layout>
       <SEO
         url={site.siteMetadata.url}
-        title="Alpha Centauri Store - The Cheapest and Reliable Premium Marketplace!"
+        title="Bugcat Shop - The Cheapest and Reliable Premium Marketplace!"
         description="Click on the title for more info."
       />
       <div className={Styles.container}>
         <h1 className={Styles.title} style={{ marginTop: `2rem` }}>
-          Alpha Centauri Store - The Cheapest and Reliable Premium Marketplace!
+          Bugcat Shop - The Cheapest and Reliable Premium Marketplace!
         </h1>
         <div className={Styles.lang}>
           <Link to="/services/id/alphacentauristore">Indonesia</Link> |{" "}
@@ -63,7 +63,7 @@ function Alphacentauristore({ data }) {
             <li>Have access to discussion forum, and you can request products!</li>
           </ul>
           <p>
-            What are you waiting for? Come and join now in Alpha Centauri Store Discord Server! 
+            What are you waiting for? Come and join now in Bugcat Shop Discord Server! 
 			</p>	
             <a href="https://discord.io/acshop" class="btn"><span class="name">Join via Invite Link</span></a>
 			<p>For those who don't have Discord, you can contact me directly via the contact person in the home page.</p>
