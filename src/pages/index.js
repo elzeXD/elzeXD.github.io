@@ -32,7 +32,7 @@ function IndexPage() {
   `)
   return (
     <Layout>
-      <SEO title="Home" />
+      <SEO title="Elze's Gallery" />
       <div className={Styles.container}>
         <h1>{site.siteMetadata.title}</h1>
         <div className={Styles.ctaWrapper}>

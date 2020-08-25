@@ -3,10 +3,11 @@ const path = require("path")
 module.exports = {
   siteMetadata: {
     title: `Elze's Gallery`,
+	logo: "./src/assets/logo.jpg"
     author: `ElzeXD`,
     description: `Welcome to my website. I do design and User Interface Customizing, also interested in Android Development. `,
     facebook: `https://facebook.com/elzeXD`,
-    youtube: `https://www.youtube.com/elzeGD`,
+    youtube: `https://www.youtube.com/elzeXD`,
     instagram: `https://www.instagram.com/elzexd`,
     telegram: `https://t.me/elzeXD`,
     trakteer: `https://trakteer.id/elzeXD`,
