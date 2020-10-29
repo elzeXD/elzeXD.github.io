@@ -35,7 +35,7 @@ Platform: Windows 10 Build 1903-2004
 
 Sayang sekali, tema ini tidaklah gratis.
 
-**Untuk mendapatkan Password dan Unlock: Ikuti instruksi di installer .exe, atau bisa langsung donasi via Trakteer seharga 15.000 (1 buah kopi). Bisa gunakan tombol di bawah:**
+**Untuk mendapatkan Password dan Unlock: Ikuti instruksi di installer .exe, atau bisa langsung donasi via Trakteer seharga 20.000 (1 buah kopi). Bisa gunakan tombol di bawah:**
 
 <a href="https://trakteer.id/elzeXD/showcase/hilda-theme-windows-10-build-1903-sd-2004-u7TU8" class="btn"><span class="name">DONASI (via Trakteer)</span></a>
 
