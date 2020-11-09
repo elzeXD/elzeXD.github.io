@@ -13,6 +13,7 @@ function ServiceCard({ slug, title, desc, date, url }) {
     {
       site {
         siteMetadata {
+          discordac
 		  facebook
           telegram
           discord
@@ -33,7 +34,7 @@ function ServiceCard({ slug, title, desc, date, url }) {
 		  <SocialButton
             faIcon={faDiscord}
             url={site.siteMetadata.discordac}
-            name="Soon"
+            name="Alpha Centauri Store Discord Server"
           />
         </div>
       </div>

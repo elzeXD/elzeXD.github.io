@@ -10,9 +10,9 @@ function Services() {
       <SEO title="Services" />
       <div className={Styles.container}>
         <ServiceCard
-          url="/services/id/soon"
-          title="Coming Soon"
-          desc="Coming Soon"
+          url="/services/id/alphacentauristore"
+          title="Alpha Centauri Store - Marketplace Premium Terlengkap, Termurah, dan Terpercaya!"
+          desc="Official Partner, bukan asal-asalan apalagi tipu-tipu! Info selengkapnya klik di judul."
         />
       </div>
     </Layout>
