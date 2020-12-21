@@ -17,7 +17,7 @@ tags:
 
 **You all know this Custom ROM, right?**
 
-**Sorry for long update, I'm so busy and my PC was broken,so i made this in my spare time using my old PC that still using Windows 7.
+**Sorry for long update, I'm so busy and my PC was broken, so I made this in my spare time using my old PC that still using Windows 7.**
 
 **Since I joined and active in Android community for so long, I decided to put references to a custom ROM, called 'Nusantara Project' here.**
 

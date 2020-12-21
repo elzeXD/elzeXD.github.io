@@ -40,7 +40,7 @@ Tembus: System, WhatsApp, IG, YouTube
 
 ![ss6](./ss6.jpg)
 
-**You can download the LIITE version of this theme below:**
+**You can download the LITE version of this theme below:**
 
 <a href="https://semawur.com/u3xmv" class="btn"><span class="name">DOWNLOAD (LITE VERSION)</span></a>
 
@@ -53,7 +53,7 @@ Tembus: System, WhatsApp, IG, YouTube
 
 # For Indonesian:
 
-**Untuk mendapatkan file tema VIP, donasi via Trakteer seharga 15.000 (1 buah kopi). Bisa gunakan tombol di bawah:**
+**Untuk mendapatkan file tema VIP, donasi via Trakteer seharga 20.000 (1 buah tiket). Bisa gunakan tombol di bawah:**
 
 <a href="https://trakteer.id/elzeXD/showcase/umaru-theme-miui-12-Igk3V" class="btn"><span class="name">DONASI (via Trakteer)</span></a>
 

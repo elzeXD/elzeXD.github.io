@@ -39,7 +39,7 @@ Platform: Windows 10 Build 1903-2004
 
 # For Indonesian:
 
-**Untuk mendapatkan Password dan Unlock: Ikuti instruksi di installer .exe, atau bisa langsung donasi via Trakteer seharga 15.000 (1 buah kopi). Bisa gunakan tombol di bawah:**
+**Untuk mendapatkan Password dan Unlock: Ikuti instruksi di installer .exe, atau bisa langsung donasi via Trakteer seharga 20.000 (1 buah tiket). Bisa gunakan tombol di bawah:**
 
 <a href="https://trakteer.id/elzeXD/showcase/yuuko-aioi-theme-windows-10-build-1903-sd-2004-WcngJ" class="btn"><span class="name">DONATE (INDONESIA)</span></a>
 
