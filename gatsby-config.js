@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: `Elze's Gallery`,
 	image: "./src/assets/logo.jpg",
-    author: `ElzeXD`,
+    author: `Vincent S`,
     description: `Welcome to my website. I do design and User Interface Customizing, also interested in Android Development. `,
     repo: `https://github.com/elzeXD`,
     facebook: `https://facebook.com/elzeXD`,
