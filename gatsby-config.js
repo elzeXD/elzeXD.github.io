@@ -6,6 +6,7 @@ module.exports = {
 	image: "./src/assets/logo.jpg",
     author: `ElzeXD`,
     description: `Welcome to my website. I do design and User Interface Customizing, also interested in Android Development. `,
+    repo: `https://github.com/elzeXD`,
     facebook: `https://facebook.com/elzeXD`,
     youtube: `https://www.youtube.com/elzeXD`,
     instagram: `https://www.instagram.com/elzexd`,
@@ -44,13 +45,13 @@ module.exports = {
       resolve: `gatsby-transformer-remark`,
       options: {
         // Plugins configs
-        plugins: [
+        plugins: {
           {
             resolve: `gatsby-remark-images`,
             maxWidth: 960,
             linkImagesToOriginal: false,
           },
-        ],
+        },
       },
     },
     {

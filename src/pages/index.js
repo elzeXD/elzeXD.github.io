@@ -20,6 +20,7 @@ function IndexPage() {
       site {
         siteMetadata {
           title
+          repo
           facebook
           youtube
           telegram
@@ -64,6 +65,11 @@ function IndexPage() {
             faIcon={faFacebookF}
             url={site.siteMetadata.facebook}
             name="Facebook"
+          />
+          <SocialButton
+            faIcon={faFacebookF}
+            url={site.siteMetadata.facebook}
+            name="GitHub Repo"
           />
           <SocialButton
             faIcon={faInstagram}
