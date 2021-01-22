@@ -1,7 +1,7 @@
 ---
 
 title: "[MIUI 12 Theme] Umaru (PAID)"
-desc: "Hello. It's been a long time i don't share MIUI Theme, so today I'll share my theme for MIUI 12. This time is Airani Iofiteen, a VTUber from hololive ID."
+desc: "Hello. It's been a long time i don't share MIUI Theme, so today I'll share my theme for MIUI 12. This time is Airani Iofiteen, a VTuber from hololive ID."
 date: "2020-12-21"
 cover: "./cover.jpg"
 lang: "en"
@@ -12,7 +12,7 @@ tags:
 
 ---
 
-**Hello. It's been a long time i don't share MIUI Theme, so today I'll share my theme for MIUI 12. This time is Airani Iofiteen, a VTUber from hololive ID.**
+**Hello. It's been a long time i don't share MIUI Theme, so today I'll share my theme for MIUI 12. This time is Airani Iofiteen, a VTuber from hololive ID.**
 
 Chara: Airani Iofifteen
 
@@ -48,7 +48,7 @@ Lalu konfirmasi ke kontak person yang ada **di halaman utama** atau **via Telegr
 
 Setelah itu, file tema akan di-emailkan.
 
-<a href="http://t.me/elzeXD" class="btn"><span class="name">KONFIRMASI DONASI (via Telegram)</span></a>
+<a href="https://t.me/elzeXD" class="btn"><span class="name">KONFIRMASI DONASI (via Telegram)</span></a>
 
 # For foreigners:
 
@@ -59,7 +59,7 @@ You can use this button to discuss about the payment.
 
 **But don't be sad, you can download the LITE version of this theme below:**
 
-*COMING SOON*
+<a href="https://semawur.com/jT5Jmy" class="btn"><span class="name">DIRECT LINK (Google Drive)</span></a>
 
 
 # Pirating and redistribution is prohibited and may result in criminal penalties.
