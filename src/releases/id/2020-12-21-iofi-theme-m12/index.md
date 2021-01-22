@@ -44,13 +44,13 @@ Lalu konfirmasi ke kontak person yang ada **di halaman utama** atau **via Telegr
 
 Setelah itu, file tema akan di-emailkan.
 
-<a href="http://t.me/elzeXD" class="btn"><span class="name">KONFIRMASI DONASI (via Telegram)</span></a>
+<a href="https://t.me/elzeXD" class="btn"><span class="name">KONFIRMASI DONASI (via Telegram)</span></a>
 
 
 
 **Tetapi jangan sedih! Versi LITE dari tema ini dapat di-download dari link berikut, tetapi tentu saja dengan fitur yang terbatas.**
 
-*COMING SOON*
+<a href="https://semawur.com/jT5Jmy" class="btn"><span class="name">DIRECT LINK (Google Drive)</span></a>
 
 
 
