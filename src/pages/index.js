@@ -1,6 +1,7 @@
 import {
   faDeviantart,
   faFacebookF,
+  faGithub,
   faInstagram,
   faTelegram,
   faYoutube,
@@ -42,6 +43,11 @@ function IndexPage() {
         </div>
         <div className={Styles.buttons}>
           <SocialButton
+            faIcon={faGithub}
+            url={site.siteMetadata.repo}
+            name="GitHub Repo"
+          />
+          <SocialButton
             faIcon={faYoutube}
             url={site.siteMetadata.youtube}
             name="Youtube"
@@ -65,11 +71,6 @@ function IndexPage() {
             faIcon={faFacebookF}
             url={site.siteMetadata.facebook}
             name="Facebook"
-          />
-          <SocialButton
-            faIcon={faFacebookF}
-            url={site.siteMetadata.facebook}
-            name="GitHub Repo"
           />
           <SocialButton
             faIcon={faInstagram}
