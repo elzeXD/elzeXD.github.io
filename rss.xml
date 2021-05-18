@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Elze's Gallery]]></title><description><![CDATA[Welcome to my website. I do design and User Interface Customizing, also interested in Android Development. ]]></description><link>https://elzeXD.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 18 May 2021 02:48:57 GMT</lastBuildDate><item><title><![CDATA[[MIUI 12 Theme] Umaru (PAID)]]></title><description><![CDATA[Hello. It's been a long time i don't share MIUI Theme, so today I'll share my theme for MIUI 12. This time is Airani Iofiteen, a VTuber from…]]></description><link>https://elzeXD.github.io/releases/en/2020-12-21-iofi-theme-m12/</link><guid isPermaLink="false">https://elzeXD.github.io/releases/en/2020-12-21-iofi-theme-m12/</guid><pubDate>Mon, 21 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;Hello. It&apos;s been a long time i don&apos;t share MIUI Theme, so today I&apos;ll share my theme for MIUI 12. This time is Airani Iofiteen, a VTuber from hololive ID.&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Elze's Gallery]]></title><description><![CDATA[Welcome to my website. I do design and User Interface Customizing, also interested in Android Development. ]]></description><link>https://elzeXD.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 18 May 2021 02:55:30 GMT</lastBuildDate><item><title><![CDATA[[MIUI 12 Theme] Umaru (PAID)]]></title><description><![CDATA[Hello. It's been a long time i don't share MIUI Theme, so today I'll share my theme for MIUI 12. This time is Airani Iofiteen, a VTuber from…]]></description><link>https://elzeXD.github.io/releases/en/2020-12-21-iofi-theme-m12/</link><guid isPermaLink="false">https://elzeXD.github.io/releases/en/2020-12-21-iofi-theme-m12/</guid><pubDate>Mon, 21 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;Hello. It&apos;s been a long time i don&apos;t share MIUI Theme, so today I&apos;ll share my theme for MIUI 12. This time is Airani Iofiteen, a VTuber from hololive ID.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Chara: Airani Iofifteen&lt;/p&gt;
 &lt;p&gt;Series: hololive ID&lt;/p&gt;
 &lt;p&gt;Platform: MIUI 12&lt;/p&gt;
@@ -2448,8 +2448,7 @@ But calm down, it can be fixed! Wanna know how? Check this out.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Apply the standard theme first!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Obviously, how else are you going to see the files?&lt;/p&gt;
 &lt;p&gt;Wait, how am I gonna apply it? I literally can&apos;t do anything.&lt;/p&gt;
-&lt;p&gt;Gampang! Tekan Win+R, terus ketik aja &lt;strong&gt;&lt;em&gt;C:\Windows\Resources\Themes\aero.theme&lt;/em&gt;&lt;/strong&gt; lalu &lt;em&gt;Enter&lt;/em&gt;
-Simple! Press Win+R, then just type &lt;strong&gt;&lt;em&gt;C:\Windows\Resources\Themes\aero.theme&lt;/em&gt;&lt;/strong&gt; then &lt;em&gt;Enter&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Simple! Press Win+R, then just type &lt;strong&gt;&lt;em&gt;C:\Windows\Resources\Themes\aero.theme&lt;/em&gt;&lt;/strong&gt; then &lt;em&gt;Enter&lt;/em&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Open the previously downloaded file&lt;/strong&gt;&lt;/p&gt;
@@ -2671,7 +2670,7 @@ Simple! Press Win+R, then just type &lt;strong&gt;&lt;em&gt;C:\Windows\Resources
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;OldNewExplorer – to show effect of theme on Explorer and Control Panel&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;OldNewExplorer – to show effect of theme on Explorer and Control Panel&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Download &lt;a href=&quot;https://msfn.org/board/topic/170375-oldnewexplorer-119/&quot;&gt;here&lt;/a&gt; and extract it on the place which is difficult to reach.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Double- click &lt;em&gt;OldNewExplorerCfg.exe&lt;/em&gt;&lt;/li&gt;
@@ -3086,7 +3085,7 @@ Tapi tenang aja, bisa kok diperbaiki! Mau tau caranya? Liat aja disini.&lt;/p&gt
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;**StartIsBack – digunakan untuk mengganti tampilan Start Menu. (berbayar) **&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;StartIsBack – digunakan untuk mengganti tampilan Start Menu. (berbayar)&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Download &lt;a href=&quot;https://www.startisback.com/&quot;&gt;di sini&lt;/a&gt;, instal seperti biasa.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -3153,7 +3152,7 @@ Tapi tenang aja, bisa kok diperbaiki! Mau tau caranya? Liat aja disini.&lt;/p&gt
     &lt;/span&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Jika icon blank&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Jika icon blank&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Ikuti tutorial &lt;a href=&quot;https://elzexd.github.io/releases/id/owo-patching/&quot;&gt;di sini&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
