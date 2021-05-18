@@ -64,7 +64,7 @@ tags:
 
     - choose *Yes*.
 
-5. OldNewExplorer – to show effect of theme on Explorer and Control Panel
+5. **OldNewExplorer – to show effect of theme on Explorer and Control Panel**
 
    Download [here](https://msfn.org/board/topic/170375-oldnewexplorer-119/) and extract it on the place which is difficult to reach.
    

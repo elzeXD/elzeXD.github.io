@@ -77,7 +77,7 @@ tags:
 
    - *Restart Explorer* (kalau gak ngerti, restart aja komputernya)
 
-6. **StartIsBack – digunakan untuk mengganti tampilan Start Menu. (berbayar) **
+6. **StartIsBack – digunakan untuk mengganti tampilan Start Menu. (berbayar)**
 
     Download [di sini](https://www.startisback.com/), instal seperti biasa.
 
@@ -107,6 +107,6 @@ tags:
 
 	![step1-7](./007.jpg)
 
-9. Jika icon blank
+9. **Jika icon blank**
 
     - Ikuti tutorial [di sini](https://elzexd.github.io/releases/id/owo-patching/).

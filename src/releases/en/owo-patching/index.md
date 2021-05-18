@@ -47,7 +47,6 @@ No quota? Alright then, proceed to read this article.
 
    Wait, how am I gonna apply it? I literally can't do anything.
 
-   Gampang! Tekan Win+R, terus ketik aja ***C:\Windows\Resources\Themes\aero.theme*** lalu *Enter*
    Simple! Press Win+R, then just type ***C:\Windows\Resources\Themes\aero.theme*** then *Enter*
 
 2. **Open the previously downloaded file**
