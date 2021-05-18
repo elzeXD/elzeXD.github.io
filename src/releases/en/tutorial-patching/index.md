@@ -48,26 +48,26 @@ tags:
 
     Download [here](https://www.syssel.net/hoefs/software_uxtheme.php?lang=en), double-click it, follow the instructions, and restart your PC.
 
-3. **Theme Signature Bypass**
+3. **Classic CP – to add menu Personalize Classic on Right- Click**
 
-    If you don’t want to use Patch, just install this and follow the instructions.
-
-4. **Classic CP – to add menu Personalize Classic on Right- Click**
+   Download [here](https://www.majorgeeks.com/files/details/add_or_remove_the_classic_personalize_context_menu.html) and extract wherever you want.
 
     - Double- click *InstallClassicCP.reg*
 
     - choose *Yes*.
 
-5. **Classic Context Menu – to show effect of theme on Right- Click menu**
+4. **Classic Context Menu – to show effect of theme on Right- Click menu**
+
+	Download [here](https://media.askvg.com/downloads/2016/01/Enable-Classic-Context-Menu-in-Windows-10.zip) and extract wherever you want.
 
     - Double- click *Enable Classic Context Menu in Windows 10.reg*
 
     - choose *Yes*.
 
-6. OldNewExplorer – to show effect of theme on Explorer and Control Panel
+5. OldNewExplorer – to show effect of theme on Explorer and Control Panel
 
-   **If you feel too difficult, skip to number 6**
-
+   Download [here](https://msfn.org/board/topic/170375-oldnewexplorer-119/) and extract it on the place which is difficult to reach.
+   
     - Double- click *OldNewExplorerCfg.exe*
 
     - Follow this settings or customize like you want
@@ -76,25 +76,15 @@ tags:
 
     - *Restart Explorer* (if you don’t understand, just restart the PC)
 
-7. **Ribbon Disabler – (use this if you are confused with OldNewExplorer) to show effect of theme on Explorer and Control Panel**
+6. **StartIsBack – to change Start Menu style (paid)**
 
-    - Open the folder *x86* or *x64* (Depends on your PC)
-
-    - Double- click *Ribbon disabler2.exe*
-
-    - *Restart Explorer* (if you don’t understand, just restart the PC)
-
-8. **StartIsBack – to change Start Menu style**
-
-    - Open *Setup* folder, open *StartIsBackPlusPlus_setup.exe* and install.
-
-    - Open *TrialReset* folder, open *StartIsBackTR.exe* and choose Install Autoreset.
-
-9. **Install The Theme**
+    Download [here](https://www.startisback.com/), install it as usual.
+	
+7. **Install The Theme**
 
     Follow the instruction. Password is in the installer!
 
-10. **Change the theme**
+8. **Change the theme**
 
     - Right- click on Desktop
 
@@ -116,6 +106,6 @@ tags:
 
     ![step1-7](./007.jpg)
 
-11. **If the icon blanks (Windows 10 1903 or newer)**
+9. **If the icon blanks (Windows 10 1903 or newer)**
 
     - Follow [this tutorial](https://elzexd.github.io/releases/en/owo-patching/).

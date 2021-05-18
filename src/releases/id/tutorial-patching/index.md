@@ -49,25 +49,25 @@ tags:
 
    Download [di sini](https://www.syssel.net/hoefs/software_uxtheme.php?lang=en), instal seperti biasa, lalu restart PC.
 
-3. **Theme Signature Bypass**
+3. **Classic CP – digunakan untuk menambahkan pilihan Personalize Classic pada Klik Kanan**
 
-   Jika tidak punya kuota atau takut patch, pakai ini. Cukup instal seperti biasa.
-
-4. **Classic CP – digunakan untuk menambahkan pilihan Personalize Classic pada Klik Kanan**
+   Download [di sini](https://www.majorgeeks.com/files/details/add_or_remove_the_classic_personalize_context_menu.html) lalu ekstrak terserah mau dimana.
 
    - Buka *InstallClassicCP.reg*
 
    - Pilih *Yes*.
 
-5. **Classic Context Menu – digunakan untuk menampilkan efek tema pada saat klik kanan**
+4. **Classic Context Menu – digunakan untuk menampilkan efek tema pada saat klik kanan**
+
+	Download [di sini](https://media.askvg.com/downloads/2016/01/Enable-Classic-Context-Menu-in-Windows-10.zip) lalu ekstrak terserah mau dimana.
 
    - Buka *Enable Classic Context Menu in Windows 10.reg*
 
    - pilih *Yes*.
 
-6. **OldNewExplorer – digunakan untuk menampilkan efek tema pada Explorer dan Control Panel.**
+5. **OldNewExplorer – digunakan untuk menampilkan efek tema pada Explorer dan Control Panel.**
 
-   **Jika merasa ribet, lanjut ke nomor 6.**
+   Download [di sini](https://msfn.org/board/topic/170375-oldnewexplorer-119/) lalu ekstrak di tempat yang susah dijangkau.
 
    - Buka *OldNewExplorerCfg.exe*
 
@@ -77,27 +77,15 @@ tags:
 
    - *Restart Explorer* (kalau gak ngerti, restart aja komputernya)
 
-7. **Ribbon Disabler – (kalo gak mau ribet pake OldNewExplorer, pake ini aja) digunakan untuk menampilkan efek tema pada Explorer dan Control Panel.**
+6. **StartIsBack – digunakan untuk mengganti tampilan Start Menu. (berbayar) **
 
-   - Buka folder *x86* atau *x64*, sesuai dengan komputer anda
+    Download [di sini](https://www.startisback.com/), instal seperti biasa.
 
-   - Klik 2x *Ribbon disabler2.exe*
-
-   - *Restart Explorer* (kalau gak ngerti, restart aja komputernya)
-
-8. **StartIsBack – digunakan untuk mengganti tampilan Start Menu.**
-
-   - Buka folder *Setup*, buka *StartIsBackPlusPlus_setup.exe* lalu instal seperti biasa.
-
-   - Buka folder *TrialReset*, buka *StartIsBackTR.exe* lalu pilih Install Autoreset.
-
-   - Restart komputer anda.
-
-9. **Install Tema**
+7. **Install Tema**
 
    Instal seperti biasa. Password bervariasi, ada di installer!
 
-10. **Ubah Tema**
+8. **Ubah Tema**
 
     - Klik kanan di Desktop
 
@@ -119,6 +107,6 @@ tags:
 
 	![step1-7](./007.jpg)
 
-11. Jika icon blank
+9. Jika icon blank
 
     - Ikuti tutorial [di sini](https://elzexd.github.io/releases/id/owo-patching/).
