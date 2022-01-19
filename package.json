@@ -6,12 +6,12 @@
   "author": "ElzeXD <vincntshn@gmail.com>",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
-    "@fortawesome/free-brands-svg-icons": "^5.12.1",
-    "@fortawesome/free-solid-svg-icons": "^5.12.1",
-    "@fortawesome/react-fontawesome": "^0.1.8",
+    "@fortawesome/free-brands-svg-icons": "^5.15.4",
+    "@fortawesome/free-solid-svg-icons": "^5.15.4",
+    "@fortawesome/react-fontawesome": "^0.1.16",
     "autoprefixer": "^9.7.4",
     "gatsby": "^2.19.7",
-    "gatsby-image": "^2.2.41",
+    "gatsby-plugin-image": "^2.5.2",
     "gatsby-plugin-feed": "^2.3.27",
     "gatsby-plugin-manifest": "^2.2.39",
     "gatsby-plugin-offline": "^3.0.32",
@@ -24,9 +24,9 @@
     "gatsby-transformer-sharp": "^2.3.13",
     "moment": "^2.24.0",
     "prop-types": "^15.7.2",
-    "react": "^16.12.0",
-    "react-dom": "^16.12.0",
-    "react-helmet": "^5.2.1"
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-helmet": "^6.1.0"
   },
   "devDependencies": {
     "gh-pages": "^2.2.0",
